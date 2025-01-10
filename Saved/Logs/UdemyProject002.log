@@ -1387,3 +1387,583 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.01.10-05.27.14:991][726]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2473.139404
 [2025.01.10-05.27.15:991][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.10-05.27.15:991][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2473.806885, Update Interval: 331.846680
+[2025.01.10-05.33.22:136][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2840.287109
+[2025.01.10-05.33.22:288][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-05.33.22:288][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2840.388184, Update Interval: 343.252655
+[2025.01.10-05.33.45:017][ 16]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-05.33.47:555][ 16]LogSlate: Window 'New Level' being destroyed
+[2025.01.10-05.33.47:681][ 16]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.10-05.33.47:682][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.10-05.33.47:682][ 16]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.01.10-05.33.47:812][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.10-05.33.48:092][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2025.01.10-05.33.48:099][ 16]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.01.10-05.33.48:106][ 16]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.01.10-05.34.47:973][610]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.10-05.34.47:990][610]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.10-05.34.48:001][610]LogSlate: Took 0.007645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.10-05.34.48:039][610]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.10-05.34.50:893][610]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2025.01.10-05.34.50:897][610]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.10-05.35.24:205][610]LogSlate: Window 'Save Level As' being destroyed
+[2025.01.10-05.35.24:336][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Overworld" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Maps/MAP_Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.10-05.35.24:380][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.01.10-05.35.24:396][610]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Overworld
+[2025.01.10-05.35.24:396][610]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/MAP_Overworld23C6EC974E69CF2913285E94DBE3CC68.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Maps/MAP_Overworld.umap'
+[2025.01.10-05.35.24:491][610]LogFileHelpers: Saving map 'MAP_Overworld' took 0.278
+[2025.01.10-05.35.24:491][610]Cmd: MAP LOAD FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Maps/MAP_Overworld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.10-05.35.24:549][610]LogWorld: UWorld::CleanupWorld for MAP_Overworld, bSessionEnded=true, bCleanupResources=true
+[2025.01.10-05.35.24:549][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.10-05.35.24:558][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.10-05.35.24:559][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.10-05.35.24:560][610]LogStreaming: Display: FlushAsyncLoading(483): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-05.35.24:563][610]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_Overworld'.
+[2025.01.10-05.35.24:563][610]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_Overworld
+[2025.01.10-05.35.24:579][610]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.10-05.35.24:591][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.10-05.35.24:619][610]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.10-05.35.24:619][610]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.05ms to complete.
+[2025.01.10-05.35.24:709][610]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-05.35.24:709][610]LogContentValidation: Enabled validators:
+[2025.01.10-05.35.24:710][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-05.35.24:710][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-05.35.24:710][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-05.35.24:710][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-05.35.24:710][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-05.35.24:710][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-05.35.24:712][610]AssetCheck: /Game/Maps/MAP_Overworld Validating asset
+[2025.01.10-05.35.24:845][614]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.01.10-05.39.49:583][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3227.719971
+[2025.01.10-05.39.50:583][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-05.39.50:583][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3228.386475, Update Interval: 353.294464
+[2025.01.10-05.46.32:369][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3630.506104
+[2025.01.10-05.46.33:370][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-05.46.33:370][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3631.170410, Update Interval: 319.953613
+[2025.01.10-05.47.47:371][394]LogDerivedDataCache: C:/Users/fkeme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.10-05.48.54:439][595]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.10-05.49.08:626][638]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.10-05.52.40:849][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3998.987793
+[2025.01.10-05.52.41:848][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-05.52.41:848][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3999.654297, Update Interval: 315.892212
+[2025.01.10-05.58.32:372][581]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4350.514160
+[2025.01.10-05.58.33:375][584]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-05.58.33:375][584]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4351.180176, Update Interval: 326.952118
+[2025.01.10-06.04.38:810][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4716.954590
+[2025.01.10-06.04.39:812][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-06.04.39:812][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4717.625977, Update Interval: 347.998901
+[2025.01.10-06.11.27:002][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5125.149902
+[2025.01.10-06.11.28:002][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-06.11.28:002][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5125.815918, Update Interval: 308.476196
+[2025.01.10-06.16.27:020][190]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-06.16.27:032][190]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\fkeme\Desktop\Game Portfolio\Unreal 5\Monster World Assets\Fonts/Pixeled.ttf)
+[2025.01.10-06.16.47:870][190]LogSlate: Window 'Font Face Import Options' being destroyed
+[2025.01.10-06.16.48:898][190]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2025.01.10-06.16.48:908][190]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2025.01.10-06.16.49:117][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.10-06.16.49:124][191]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.01.10-06.16.49:129][191]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.01.10-06.16.49:130][191]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.01.10-06.16.49:132][191]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.01.10-06.16.49:133][191]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.10-06.16.52:318][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.01.10-06.16.52:320][361]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Overworld' took 0.028
+[2025.01.10-06.16.52:321][361]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/Pixeled] ([1] browsable assets)...
+[2025.01.10-06.16.52:321][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Pixeled]
+[2025.01.10-06.16.52:321][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/Pixeled" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/Fonts/Pixeled_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.01.10-06.16.52:322][361]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fonts/Pixeled_Auto1
+[2025.01.10-06.16.52:322][361]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Pixeled_Auto1058B62364958AA9C2568BCBA09735407.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/Fonts/Pixeled_Auto1.uasset'
+[2025.01.10-06.16.52:323][361]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/Pixeled_Font] ([1] browsable assets)...
+[2025.01.10-06.16.52:323][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Pixeled_Font]
+[2025.01.10-06.16.52:323][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/Pixeled_Font" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/Fonts/Pixeled_Font_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.01.10-06.16.52:324][361]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fonts/Pixeled_Font_Auto1
+[2025.01.10-06.16.52:324][361]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Pixeled_Font_Auto1C01D7C5744A8E6DCF0D03190801319DA.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/Fonts/Pixeled_Font_Auto1.uasset'
+[2025.01.10-06.16.52:325][361]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.01.10-06.17.27:007][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5485.155273
+[2025.01.10-06.17.28:008][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-06.17.28:008][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5485.822754, Update Interval: 329.057892
+[2025.01.10-06.18.23:283][833]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.10-06.18.35:980][871]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.10-06.18.54:280][926]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.10-06.19.19:366][  1]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.10-06.22.50:730][634]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.10-06.23.53:417][822]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5871.570801
+[2025.01.10-06.23.54:416][825]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-06.23.54:416][825]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5872.236816, Update Interval: 332.024292
+[2025.01.10-06.24.04:761][856]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.10-06.30.18:923][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6257.068848
+[2025.01.10-06.30.19:921][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-06.30.19:922][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6257.736328, Update Interval: 318.873260
+[2025.01.10-06.30.59:579][500]LogStreaming: Display: FlushAsyncLoading(489): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-06.30.59:638][500]LogInterchangeEngine: [Pending] Importing
+[2025.01.10-06.30.59:639][500]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/PaperAssets/Characters/T_Green.png]
+[2025.01.10-06.30.59:640][500]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.01.10-06.30.59:640][500]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/PaperAssets/Characters/T_Red.png]
+[2025.01.10-06.30.59:642][500]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.01.10-06.30.59:642][500]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/PaperAssets/Environment/T_Chest.png]
+[2025.01.10-06.30.59:643][500]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.01.10-06.30.59:643][500]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.01.10-06.30.59:644][500]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.01.10-06.30.59:645][500]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.01.10-06.31.00:298][502]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-06.31.04:750][593]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.10-06.31.04:750][593]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.10-06.31.04:750][593]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.10-06.31.04:776][595]LogTexture: Display: Building textures: /Game/PaperAssets/Characters/T_Red.T_Red (TFO_AutoDXT, 48x68 x1x1x1) (Required Memory Estimate: 1.514648 MB), EncodeSpeed: Fast
+[2025.01.10-06.31.04:776][595]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/T_Chest.T_Chest (TFO_AutoDXT, 16x16 x1x1x1) (Required Memory Estimate: 1.040326 MB), EncodeSpeed: Fast
+[2025.01.10-06.31.04:777][595]LogTexture: Display: Building textures: /Game/PaperAssets/Characters/T_Green.T_Green (BGRA8, 12x17 x1x1x1) (Required Memory Estimate: 1.007004 MB), EncodeSpeed: Fast
+[2025.01.10-06.31.04:792][595]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...perAssets/Characters/T_Red.png]
+[2025.01.10-06.31.04:792][595]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.01.10-06.31.04:792][595]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.01.10-06.31.04:792][595]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/PaperAssets/Environment/T_Flower.png]
+[2025.01.10-06.31.04:793][595]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...perAssets/Characters/T_Green.png]
+[2025.01.10-06.31.04:793][595]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.01.10-06.31.04:793][595]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.01.10-06.31.04:793][595]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/PaperAssets/Environment/T_GroundTiles.png]
+[2025.01.10-06.31.04:793][595]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...erAssets/Environment/T_Chest.png]
+[2025.01.10-06.31.04:793][595]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.01.10-06.31.04:793][595]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.01.10-06.31.04:793][595]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/PaperAssets/Environment/T_Sign.png]
+[2025.01.10-06.31.04:842][598]LogStreaming: Display: FlushAsyncLoading(503): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-06.31.04:850][599]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.10-06.31.04:865][599]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/T_Flower.T_Flower (TFO_AutoDXT, 32x16 x1x1x1) (Required Memory Estimate: 1.080652 MB), EncodeSpeed: Fast
+[2025.01.10-06.31.04:867][600]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/T_GroundTiles.T_GroundTiles (TFO_AutoDXT, 64x48 x1x1x1) (Required Memory Estimate: 1.349609 MB), EncodeSpeed: Fast
+[2025.01.10-06.31.04:879][600]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...erAssets/Environment/T_Flower.png]
+[2025.01.10-06.31.04:879][600]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.01.10-06.31.04:879][600]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.01.10-06.31.04:879][600]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/PaperAssets/Environment/T_Tree.png]
+[2025.01.10-06.31.04:879][600]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...erAssets/Environment/T_GroundTiles.png]
+[2025.01.10-06.31.04:879][600]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.01.10-06.31.04:905][602]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.10-06.31.04:915][603]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/T_Sign.T_Sign (BGRA8, 16x13 x1x1x1) (Required Memory Estimate: 1.007133 MB), EncodeSpeed: Fast
+[2025.01.10-06.31.04:930][603]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...erAssets/Environment/T_Sign.png]
+[2025.01.10-06.31.04:930][603]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.01.10-06.31.04:930][603]LogStreaming: Display: FlushAsyncLoading(506): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-06.31.04:937][604]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.10-06.31.04:949][605]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/T_Tree.T_Tree (TFO_AutoDXT, 16x32 x1x1x1) (Required Memory Estimate: 1.080652 MB), EncodeSpeed: Fast
+[2025.01.10-06.31.04:964][605]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...erAssets/Environment/T_Tree.png]
+[2025.01.10-06.31.04:994][605]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.01.10-06.31.04:995][605]LogInterchangeEngine: [Success] Import Done
+[2025.01.10-06.31.57:238][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.10-06.31.57:239][281]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Overworld' took 0.025
+[2025.01.10-06.31.57:240][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/T_Red] ([1] browsable assets)...
+[2025.01.10-06.31.57:245][281]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Characters/T_Red.T_Red]
+[2025.01.10-06.31.57:245][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/T_Red]
+[2025.01.10-06.31.57:308][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/T_Red_Auto2
+[2025.01.10-06.31.57:308][281]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Auto29C2C3EEA4C95A0695A080786E4341C85.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/PaperAssets/Characters/T_Red_Auto2.uasset'
+[2025.01.10-06.31.57:309][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/T_Green] ([1] browsable assets)...
+[2025.01.10-06.31.57:311][281]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Characters/T_Green.T_Green]
+[2025.01.10-06.31.57:311][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/T_Green]
+[2025.01.10-06.31.57:312][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/T_Green_Auto2
+[2025.01.10-06.31.57:312][281]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Green_Auto2653FA37A466EEE273F157D9736BCD338.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/PaperAssets/Characters/T_Green_Auto2.uasset'
+[2025.01.10-06.31.57:314][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Chest] ([1] browsable assets)...
+[2025.01.10-06.31.57:316][281]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_Chest.T_Chest]
+[2025.01.10-06.31.57:316][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Chest]
+[2025.01.10-06.31.57:317][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/T_Chest_Auto2
+[2025.01.10-06.31.57:317][281]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Chest_Auto230F6650443F83AE27FAA97B3154EC214.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/PaperAssets/Environment/T_Chest_Auto2.uasset'
+[2025.01.10-06.31.57:318][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Flower] ([1] browsable assets)...
+[2025.01.10-06.31.57:321][281]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_Flower.T_Flower]
+[2025.01.10-06.31.57:321][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Flower]
+[2025.01.10-06.31.57:323][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/T_Flower_Auto2
+[2025.01.10-06.31.57:323][281]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Flower_Auto2183FFACE454FA91FA9DF419A6AFB7381.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/PaperAssets/Environment/T_Flower_Auto2.uasset'
+[2025.01.10-06.31.57:324][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_GroundTiles] ([1] browsable assets)...
+[2025.01.10-06.31.57:326][281]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_GroundTiles.T_GroundTiles]
+[2025.01.10-06.31.57:326][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_GroundTiles]
+[2025.01.10-06.31.57:328][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/T_GroundTiles_Auto2
+[2025.01.10-06.31.57:328][281]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_GroundTiles_Auto2E5A68FE3420EC4EA475240A64EE01511.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/PaperAssets/Environment/T_GroundTiles_Auto2.uasset'
+[2025.01.10-06.31.57:363][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Sign] ([1] browsable assets)...
+[2025.01.10-06.31.57:365][281]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_Sign.T_Sign]
+[2025.01.10-06.31.57:365][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Sign]
+[2025.01.10-06.31.57:366][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/T_Sign_Auto2
+[2025.01.10-06.31.57:366][281]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Sign_Auto2A57825F24D2D136FB55831A27E87B36E.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/PaperAssets/Environment/T_Sign_Auto2.uasset'
+[2025.01.10-06.31.57:367][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Tree] ([1] browsable assets)...
+[2025.01.10-06.31.57:369][281]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_Tree.T_Tree]
+[2025.01.10-06.31.57:369][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Tree]
+[2025.01.10-06.31.57:371][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/T_Tree_Auto2
+[2025.01.10-06.31.57:371][281]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Tree_Auto2ABC031624FD36D320D030492B1C24D15.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Autosaves/Game/PaperAssets/Environment/T_Tree_Auto2.uasset'
+[2025.01.10-06.31.57:372][281]LogFileHelpers: Auto-saving content packages took 0.133
+[2025.01.10-06.32.05:153][392]LogStreaming: Display: FlushAsyncLoading(507): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-06.32.05:172][392]LogInterchangeEngine: [Pending] Importing
+[2025.01.10-06.32.05:172][392]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/UI/MessageBorder.png]
+[2025.01.10-06.32.05:871][394]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-06.32.05:880][395]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.10-06.32.06:161][396]LogTexture: Display: Building textures: /Game/UI/MessageBorder.MessageBorder (TFO_AutoDXT, 192x192 x1x1x1) (Required Memory Estimate: 6.8125 MB), EncodeSpeed: Fast
+[2025.01.10-06.32.06:513][396]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...ster World Assets/UI/MessageBorder.png]
+[2025.01.10-06.32.06:518][396]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.01.10-06.32.06:518][396]LogInterchangeEngine: [Success] Import Done
+[2025.01.10-06.33.19:762][ 91]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Characters/T_Green.T_Green
+[2025.01.10-06.36.22:485][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6620.640137
+[2025.01.10-06.36.23:486][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-06.36.23:486][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6621.306641, Update Interval: 326.750702
+[2025.01.10-06.39.55:814][698]LogSlate: Window 'T_Green' being destroyed
+[2025.01.10-06.39.55:818][698]LogSlate: Window 'T_Green' being destroyed
+[2025.01.10-06.40.05:794][208]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Characters/T_Green.T_Green
+[2025.01.10-06.40.11:666][515]LogSlate: Window 'T_Green' being destroyed
+[2025.01.10-06.40.11:671][515]LogSlate: Window 'T_Green' being destroyed
+[2025.01.10-06.40.14:291][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.01.10-06.40.18:450][664]LogSlate: Window 'Save Content' being destroyed
+[2025.01.10-06.40.18:491][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-06.40.18:564][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MessageBorder] ([1] browsable assets)...
+[2025.01.10-06.40.18:565][664]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/MessageBorder.MessageBorder]
+[2025.01.10-06.40.18:565][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MessageBorder]
+[2025.01.10-06.40.18:565][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MessageBorder" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/UI/MessageBorder.uasset" SILENT=true
+[2025.01.10-06.40.18:570][664]LogSavePackage: Moving output files for package: /Game/UI/MessageBorder
+[2025.01.10-06.40.18:570][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/MessageBorder3AF880D04F170D72C7A76988AE8CE7BC.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/UI/MessageBorder.uasset'
+[2025.01.10-06.40.18:575][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/Pixeled] ([1] browsable assets)...
+[2025.01.10-06.40.18:575][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Pixeled]
+[2025.01.10-06.40.18:575][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/Pixeled" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Fonts/Pixeled.uasset" SILENT=true
+[2025.01.10-06.40.18:576][664]LogSavePackage: Moving output files for package: /Game/Fonts/Pixeled
+[2025.01.10-06.40.18:576][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Pixeled278DB06B4C24AF8A71822CA25368B16A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Fonts/Pixeled.uasset'
+[2025.01.10-06.40.18:578][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/Pixeled_Font] ([1] browsable assets)...
+[2025.01.10-06.40.18:578][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Pixeled_Font]
+[2025.01.10-06.40.18:578][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/Pixeled_Font" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Fonts/Pixeled_Font.uasset" SILENT=true
+[2025.01.10-06.40.18:579][664]LogSavePackage: Moving output files for package: /Game/Fonts/Pixeled_Font
+[2025.01.10-06.40.18:579][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/Pixeled_Font37618CC64A22D2C9B68036BD1873C3B5.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Fonts/Pixeled_Font.uasset'
+[2025.01.10-06.40.18:581][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/T_Chest] ([1] browsable assets)...
+[2025.01.10-06.40.18:581][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Chest]
+[2025.01.10-06.40.18:581][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Chest" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Chest.uasset" SILENT=true
+[2025.01.10-06.40.18:584][664]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Chest
+[2025.01.10-06.40.18:584][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Chest54B850E4463B8FCAF62F329B5EC6C1B2.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Chest.uasset'
+[2025.01.10-06.40.18:586][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/T_Flower] ([1] browsable assets)...
+[2025.01.10-06.40.18:586][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Flower]
+[2025.01.10-06.40.18:586][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Flower" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Flower.uasset" SILENT=true
+[2025.01.10-06.40.18:588][664]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Flower
+[2025.01.10-06.40.18:588][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Flower07F6F3E54EC8C035434237BB71822CA6.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Flower.uasset'
+[2025.01.10-06.40.18:589][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/T_Green] ([1] browsable assets)...
+[2025.01.10-06.40.18:591][664]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Characters/T_Green.T_Green]
+[2025.01.10-06.40.18:591][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/T_Green]
+[2025.01.10-06.40.18:591][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/T_Green" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Green.uasset" SILENT=true
+[2025.01.10-06.40.18:593][664]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/T_Green
+[2025.01.10-06.40.18:593][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Green3928F68C40385758D32145B3E348DF71.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Green.uasset'
+[2025.01.10-06.40.18:595][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/T_GroundTiles] ([1] browsable assets)...
+[2025.01.10-06.40.18:595][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_GroundTiles]
+[2025.01.10-06.40.18:595][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_GroundTiles" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_GroundTiles.uasset" SILENT=true
+[2025.01.10-06.40.18:596][664]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_GroundTiles
+[2025.01.10-06.40.18:596][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_GroundTiles97198FCC4D85FEDEC02C338B82999CBD.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_GroundTiles.uasset'
+[2025.01.10-06.40.18:618][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/T_Red] ([1] browsable assets)...
+[2025.01.10-06.40.18:618][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/T_Red]
+[2025.01.10-06.40.18:618][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/T_Red" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Red.uasset" SILENT=true
+[2025.01.10-06.40.18:620][664]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/T_Red
+[2025.01.10-06.40.18:620][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_RedF0450ED54464C65E0468689513602E47.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Red.uasset'
+[2025.01.10-06.40.18:621][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/T_Sign] ([1] browsable assets)...
+[2025.01.10-06.40.18:621][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Sign]
+[2025.01.10-06.40.18:622][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Sign" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Sign.uasset" SILENT=true
+[2025.01.10-06.40.18:623][664]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Sign
+[2025.01.10-06.40.18:623][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Sign274DF1EC4F765FDAEE1D12AA3AAAB367.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Sign.uasset'
+[2025.01.10-06.40.18:625][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/T_Tree] ([1] browsable assets)...
+[2025.01.10-06.40.18:625][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Tree]
+[2025.01.10-06.40.18:625][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Tree" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Tree.uasset" SILENT=true
+[2025.01.10-06.40.18:627][664]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Tree
+[2025.01.10-06.40.18:627][664]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Tree10BA8563468FDC3A9875F7898827A129.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Tree.uasset'
+[2025.01.10-06.40.18:639][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.575 ms
+[2025.01.10-06.40.18:740][664]LogContentValidation: Display: Starting to validate 10 assets
+[2025.01.10-06.40.18:740][664]LogContentValidation: Enabled validators:
+[2025.01.10-06.40.18:740][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-06.40.18:740][664]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-06.40.18:740][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-06.40.18:740][664]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-06.40.18:740][664]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-06.40.18:740][664]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-06.40.18:740][664]AssetCheck: /Game/UI/MessageBorder Validating asset
+[2025.01.10-06.40.18:740][664]AssetCheck: /Game/Fonts/Pixeled Validating asset
+[2025.01.10-06.40.18:740][664]AssetCheck: /Game/Fonts/Pixeled_Font Validating asset
+[2025.01.10-06.40.18:740][664]AssetCheck: /Game/PaperAssets/Environment/T_Chest Validating asset
+[2025.01.10-06.40.18:740][664]AssetCheck: /Game/PaperAssets/Environment/T_Flower Validating asset
+[2025.01.10-06.40.18:740][664]AssetCheck: /Game/PaperAssets/Characters/T_Green Validating asset
+[2025.01.10-06.40.18:740][664]AssetCheck: /Game/PaperAssets/Environment/T_GroundTiles Validating asset
+[2025.01.10-06.40.18:741][664]AssetCheck: /Game/PaperAssets/Characters/T_Red Validating asset
+[2025.01.10-06.40.18:741][664]AssetCheck: /Game/PaperAssets/Environment/T_Sign Validating asset
+[2025.01.10-06.40.18:741][664]AssetCheck: /Game/PaperAssets/Environment/T_Tree Validating asset
+[2025.01.10-06.40.48:158][983]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Characters/T_Green.T_Green
+[2025.01.10-06.42.19:333][932]LogSlate: Window 'T_Green' being destroyed
+[2025.01.10-06.42.19:336][932]LogSlate: Window 'T_Green' being destroyed
+[2025.01.10-06.42.26:712][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6984.884766
+[2025.01.10-06.42.26:800][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-06.42.26:800][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6984.957031, Update Interval: 318.082214
+[2025.01.10-06.42.28:524][387]LogTexture: Display: Building textures: /Game/PaperAssets/Characters/T_Red.T_Red (BGRA8, 48x68 x1x1x1) (Required Memory Estimate: 1.112061 MB), EncodeSpeed: Fast
+[2025.01.10-06.42.41:008][107]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/T_Chest.T_Chest (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2025.01.10-06.42.41:008][107]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/T_Flower.T_Flower (BGRA8, 32x16 x1x1x1) (Required Memory Estimate: 1.017563 MB), EncodeSpeed: Fast
+[2025.01.10-06.42.41:009][107]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/T_GroundTiles.T_GroundTiles (BGRA8, 64x48 x1x1x1) (Required Memory Estimate: 1.105469 MB), EncodeSpeed: Fast
+[2025.01.10-06.42.41:009][107]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/T_Tree.T_Tree (BGRA8, 16x32 x1x1x1) (Required Memory Estimate: 1.017563 MB), EncodeSpeed: Fast
+[2025.01.10-06.42.44:741][322]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Environment/T_Tree.T_Tree
+[2025.01.10-06.42.49:086][532]LogSlate: Window 'T_Tree' being destroyed
+[2025.01.10-06.42.49:097][532]LogSlate: Window 'T_Tree' being destroyed
+[2025.01.10-06.42.52:510][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-06.42.52:622][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Tree] ([1] browsable assets)...
+[2025.01.10-06.42.52:625][725]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_Tree.T_Tree]
+[2025.01.10-06.42.52:625][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Tree]
+[2025.01.10-06.42.52:625][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Tree" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Tree.uasset" SILENT=true
+[2025.01.10-06.42.52:626][725]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Tree
+[2025.01.10-06.42.52:627][725]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Tree37F5B0034A1ABFBDADEC1A901912CBFE.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Tree.uasset'
+[2025.01.10-06.42.52:635][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.083 ms (total: 272.659 ms)
+[2025.01.10-06.42.52:715][725]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-06.42.52:715][725]LogContentValidation: Enabled validators:
+[2025.01.10-06.42.52:715][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-06.42.52:715][725]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-06.42.52:715][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-06.42.52:715][725]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-06.42.52:715][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-06.42.52:716][725]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-06.42.52:716][725]AssetCheck: /Game/PaperAssets/Environment/T_Tree Validating asset
+[2025.01.10-06.42.54:524][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.01.10-06.42.55:668][825]LogSlate: Window 'Save Content' being destroyed
+[2025.01.10-06.42.55:683][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-06.42.55:749][825]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Chest] ([1] browsable assets)...
+[2025.01.10-06.42.55:752][825]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_Chest.T_Chest]
+[2025.01.10-06.42.55:752][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Chest]
+[2025.01.10-06.42.55:752][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Chest" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Chest.uasset" SILENT=true
+[2025.01.10-06.42.55:753][825]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Chest
+[2025.01.10-06.42.55:754][825]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Chest6A7FA65A47A35D3DAE69A4915B008371.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Chest.uasset'
+[2025.01.10-06.42.55:755][825]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Flower] ([1] browsable assets)...
+[2025.01.10-06.42.55:758][825]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_Flower.T_Flower]
+[2025.01.10-06.42.55:758][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Flower]
+[2025.01.10-06.42.55:758][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Flower" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Flower.uasset" SILENT=true
+[2025.01.10-06.42.55:760][825]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Flower
+[2025.01.10-06.42.55:760][825]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_FlowerC26228B44F30FED460CA1489BFC32264.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Flower.uasset'
+[2025.01.10-06.42.55:761][825]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_GroundTiles] ([1] browsable assets)...
+[2025.01.10-06.42.55:763][825]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_GroundTiles.T_GroundTiles]
+[2025.01.10-06.42.55:763][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_GroundTiles]
+[2025.01.10-06.42.55:763][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_GroundTiles" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_GroundTiles.uasset" SILENT=true
+[2025.01.10-06.42.55:765][825]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_GroundTiles
+[2025.01.10-06.42.55:766][825]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_GroundTiles6F648B9147821B93C76E179045F4E8EC.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_GroundTiles.uasset'
+[2025.01.10-06.42.55:767][825]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/T_Red] ([1] browsable assets)...
+[2025.01.10-06.42.55:768][825]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Characters/T_Red.T_Red]
+[2025.01.10-06.42.55:768][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/T_Red]
+[2025.01.10-06.42.55:768][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/T_Red" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Red.uasset" SILENT=true
+[2025.01.10-06.42.55:770][825]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/T_Red
+[2025.01.10-06.42.55:771][825]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red96827D2E43FD905E7C0807B9C29B1353.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Red.uasset'
+[2025.01.10-06.42.55:773][825]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Sign] ([1] browsable assets)...
+[2025.01.10-06.42.55:775][825]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/T_Sign.T_Sign]
+[2025.01.10-06.42.55:775][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Sign]
+[2025.01.10-06.42.55:775][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Sign" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Sign.uasset" SILENT=true
+[2025.01.10-06.42.55:777][825]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Sign
+[2025.01.10-06.42.55:778][825]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Sign252900E140DC6E3AEB22A1A5BEC99DAD.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Sign.uasset'
+[2025.01.10-06.42.55:787][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.574 ms (total: 375.233 ms)
+[2025.01.10-06.42.55:869][825]LogContentValidation: Display: Starting to validate 5 assets
+[2025.01.10-06.42.55:869][825]LogContentValidation: Enabled validators:
+[2025.01.10-06.42.55:869][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-06.42.55:869][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-06.42.55:869][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-06.42.55:869][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-06.42.55:869][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-06.42.55:869][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-06.42.55:869][825]AssetCheck: /Game/PaperAssets/Environment/T_Chest Validating asset
+[2025.01.10-06.42.55:869][825]AssetCheck: /Game/PaperAssets/Environment/T_Flower Validating asset
+[2025.01.10-06.42.55:870][825]AssetCheck: /Game/PaperAssets/Environment/T_GroundTiles Validating asset
+[2025.01.10-06.42.55:870][825]AssetCheck: /Game/PaperAssets/Characters/T_Red Validating asset
+[2025.01.10-06.42.55:870][825]AssetCheck: /Game/PaperAssets/Environment/T_Sign Validating asset
+[2025.01.10-06.43.44:774][763]LogTexture: Display: Building textures: /Game/UI/MessageBorder.MessageBorder (BGRA8, 192x192 x1x1x1) (Required Memory Estimate: 2.265625 MB), EncodeSpeed: Fast
+[2025.01.10-06.43.47:878][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-06.43.47:970][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MessageBorder] ([1] browsable assets)...
+[2025.01.10-06.43.47:973][943]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/MessageBorder.MessageBorder]
+[2025.01.10-06.43.47:973][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MessageBorder]
+[2025.01.10-06.43.47:973][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MessageBorder" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/UI/MessageBorder.uasset" SILENT=true
+[2025.01.10-06.43.47:975][943]LogSavePackage: Moving output files for package: /Game/UI/MessageBorder
+[2025.01.10-06.43.47:976][943]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/MessageBorder53689F3A45CC93844B32808FFD4CA013.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/UI/MessageBorder.uasset'
+[2025.01.10-06.43.47:985][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.745 ms (total: 481.979 ms)
+[2025.01.10-06.43.48:051][943]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-06.43.48:051][943]LogContentValidation: Enabled validators:
+[2025.01.10-06.43.48:051][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-06.43.48:051][943]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-06.43.48:051][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-06.43.48:051][943]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-06.43.48:052][943]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-06.43.48:052][943]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-06.43.48:052][943]AssetCheck: /Game/UI/MessageBorder Validating asset
+[2025.01.10-06.44.36:238][265]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 525...102
+[2025.01.10-06.44.36:238][265]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.7 RefreshExpires: 1.554e+07
+[2025.01.10-06.44.37:238][268]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 525...102 Access[Expires: 2025.01.10-08.44.36 Remaining: 7200.15] Refresh[Expires: 2025-07-09T04:31:09.597Z Remaining: 15543993.60] State: Valid
+[2025.01.10-06.44.55:861][636]LogStreaming: Display: FlushAsyncLoading(509): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-06.44.55:995][641]LogStreaming: Display: FlushAsyncLoading(510): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.10-06.44.57:849][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-06.44.57:955][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Chest_Sprite] ([1] browsable assets)...
+[2025.01.10-06.44.57:958][748]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Environment/T_Chest_Sprite.T_Chest_Sprite]
+[2025.01.10-06.44.57:958][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Chest_Sprite]
+[2025.01.10-06.44.57:964][748]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Chest_Sprite
+[2025.01.10-06.44.57:964][748]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Chest_Sprite7099BF8B483B27B3681E6DAC7E4A039A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Chest_Sprite.uasset'
+[2025.01.10-06.44.57:975][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.561 ms (total: 607.540 ms)
+[2025.01.10-06.44.58:054][748]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-06.44.58:054][748]LogContentValidation: Enabled validators:
+[2025.01.10-06.44.58:054][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-06.44.58:054][748]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-06.44.58:054][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-06.44.58:054][748]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-06.44.58:054][748]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-06.44.58:054][748]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-06.44.58:054][748]AssetCheck: /Game/PaperAssets/Environment/T_Chest_Sprite Validating asset
+[2025.01.10-06.45.24:704][ 37]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/PaperAssets/Environment/T_Chest_Sprite.T_Chest_Sprite
+[2025.01.10-06.45.24:704][ 37]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/PaperAssets/Environment/T_Chest_Sprite.T_Chest_Sprite
+[2025.01.10-06.45.24:707][ 37]LogActorFactory: Actor Factory spawned PaperSprite /Game/PaperAssets/Environment/T_Chest_Sprite.T_Chest_Sprite as actor: PaperSpriteActor /Game/Maps/MAP_Overworld.MAP_Overworld:PersistentLevel.PaperSpriteActor_0
+[2025.01.10-06.45.24:711][ 37]LogActorFactory: Actor Factory spawned PaperSprite /Game/PaperAssets/Environment/T_Chest_Sprite.T_Chest_Sprite as actor: PaperSpriteActor /Game/Maps/MAP_Overworld.MAP_Overworld:PersistentLevel.PaperSpriteActor_0
+[2025.01.10-06.45.26:223][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.10-06.45.26:224][109]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.01.10-06.45.26:234][109]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/PaperAssets/Environment/T_Chest_Sprite.T_Chest_Sprite
+[2025.01.10-06.45.26:234][109]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/PaperAssets/Environment/T_Chest_Sprite.T_Chest_Sprite
+[2025.01.10-06.45.26:239][109]LogActorFactory: Actor Factory spawned PaperSprite /Game/PaperAssets/Environment/T_Chest_Sprite.T_Chest_Sprite as actor: PaperSpriteActor /Game/Maps/MAP_Overworld.MAP_Overworld:PersistentLevel.PaperSpriteActor_1
+[2025.01.10-06.45.26:239][109]LogActorFactory: Actor Factory spawned PaperSprite /Game/PaperAssets/Environment/T_Chest_Sprite.T_Chest_Sprite as actor: PaperSpriteActor /Game/Maps/MAP_Overworld.MAP_Overworld:PersistentLevel.PaperSpriteActor_1
+[2025.01.10-06.45.28:355][194]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2025.01.10-06.45.28:760][205]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.10-06.46.13:683][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-06.46.13:869][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Overworld" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Maps/MAP_Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.10-06.46.13:908][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.01.10-06.46.13:912][760]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Overworld
+[2025.01.10-06.46.13:913][760]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/MAP_Overworld420F33DE454D1D9E635FE4802A743C12.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Maps/MAP_Overworld.umap'
+[2025.01.10-06.46.13:927][760]LogFileHelpers: Saving map 'MAP_Overworld' took 0.058
+[2025.01.10-06.46.13:937][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 253.591 ms (total: 861.132 ms)
+[2025.01.10-06.46.14:008][760]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-06.46.14:008][760]LogContentValidation: Enabled validators:
+[2025.01.10-06.46.14:009][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-06.46.14:009][760]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-06.46.14:009][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-06.46.14:009][760]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-06.46.14:009][760]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-06.46.14:009][760]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-06.46.14:009][760]AssetCheck: /Game/Maps/MAP_Overworld Validating asset
+[2025.01.10-06.46.19:325][829]LogShaderCompilers: Display: ================================================
+[2025.01.10-06.46.19:325][829]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Total job queries 1,303, among them cache hits 212 (16.27%), DDC hits 1,081 (82.96%), Duplicates 4 (0.31%)
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Tracking 1,087 distinct input hashes that result in 853 distinct outputs (78.47%)
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: RAM used: 558.80 KiB of 819.20 MiB budget. Usage: 0.07%
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Average time worker was idle: 0.58 s
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.13 s
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Job execution time: average 2.17 s, max 3.20 s
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Job life time (pending + execution): average 2.24 s, max 3.23
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Shader code size: average 7.304 KiB, min 2.871 KiB, max 12.215 KiB
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.89 s
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Average processing rate: 1.54 jobs/sec
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Total thread time: 3.565 s
+[2025.01.10-06.46.19:329][829]LogShaderCompilers: Display: Total thread preprocess time: 20.583 s
+[2025.01.10-06.46.19:330][829]LogShaderCompilers: Display: Percentage time preprocessing: 577.30%
+[2025.01.10-06.46.19:330][829]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.01.10-06.46.19:330][829]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.10-06.46.19:330][829]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2025.01.10-06.46.19:330][829]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2025.01.10-06.46.19:330][829]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2025.01.10-06.46.19:330][829]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2025.01.10-06.46.19:330][829]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2025.01.10-06.46.19:330][829]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.20% of total time (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.52% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display:                                                  FHitProxyPS - 16.76% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display:                                                  FHitProxyVS - 16.33% of total time (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display:                                                 FLumenCardPS - 13.25% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display: === Material stats ===
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display: Materials Translated:    130
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display: Material Translation Only: 0.08 s (54%)
+[2025.01.10-06.46.19:331][829]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.10-06.46.19:332][829]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.10-06.46.19:332][829]LogShaderCompilers: Display: ================================================
+[2025.01.10-06.46.47:111][ 45]Cmd: DELETE
+[2025.01.10-06.46.47:111][ 45]Cmd: ACTOR DELETE
+[2025.01.10-06.46.47:137][ 45]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2025.01.10-06.46.47:159][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.10-06.46.47:161][ 45]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.01.10-06.46.49:993][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-06.46.50:104][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Overworld" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Maps/MAP_Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.10-06.46.50:151][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.10-06.46.50:156][199]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Overworld
+[2025.01.10-06.46.50:157][199]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/MAP_OverworldDCD66D9A4F46B43CA6B0F898745440A5.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Maps/MAP_Overworld.umap'
+[2025.01.10-06.46.50:177][199]LogFileHelpers: Saving map 'MAP_Overworld' took 0.073
+[2025.01.10-06.46.50:185][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.048 ms (total: 1.05 sec)
+[2025.01.10-06.46.50:264][199]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.10-06.46.50:264][199]LogContentValidation: Enabled validators:
+[2025.01.10-06.46.50:264][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-06.46.50:264][199]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-06.46.50:264][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-06.46.50:264][199]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-06.46.50:264][199]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-06.46.50:264][199]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-06.46.50:264][199]AssetCheck: /Game/Maps/MAP_Overworld Validating asset
+[2025.01.10-06.47.14:125][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.10-06.47.14:216][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Sign_Sprite] ([1] browsable assets)...
+[2025.01.10-06.47.14:218][908]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Environment/T_Sign_Sprite.T_Sign_Sprite]
+[2025.01.10-06.47.14:218][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Sign_Sprite]
+[2025.01.10-06.47.14:218][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Sign_Sprite" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Sign_Sprite.uasset" SILENT=true
+[2025.01.10-06.47.14:220][908]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Sign_Sprite
+[2025.01.10-06.47.14:220][908]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Sign_Sprite80D07019461E6B6F6EF0ACA227AF7D67.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Sign_Sprite.uasset'
+[2025.01.10-06.47.14:222][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Tree_Sprite] ([1] browsable assets)...
+[2025.01.10-06.47.14:224][908]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Environment/T_Tree_Sprite.T_Tree_Sprite]
+[2025.01.10-06.47.14:224][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Tree_Sprite]
+[2025.01.10-06.47.14:224][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/T_Tree_Sprite" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Tree_Sprite.uasset" SILENT=true
+[2025.01.10-06.47.14:226][908]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Tree_Sprite
+[2025.01.10-06.47.14:226][908]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Tree_SpriteD555457E4BC02B5C8316199246C0720F.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Tree_Sprite.uasset'
+[2025.01.10-06.47.14:236][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.539 ms (total: 1.16 sec)
+[2025.01.10-06.47.14:312][908]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.10-06.47.14:312][908]LogContentValidation: Enabled validators:
+[2025.01.10-06.47.14:312][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.10-06.47.14:312][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.10-06.47.14:312][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.10-06.47.14:313][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.10-06.47.14:313][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.10-06.47.14:313][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.10-06.47.14:313][908]AssetCheck: /Game/PaperAssets/Environment/T_Sign_Sprite Validating asset
+[2025.01.10-06.47.14:313][908]AssetCheck: /Game/PaperAssets/Environment/T_Tree_Sprite Validating asset
+[2025.01.10-06.47.47:371][744]LogDerivedDataCache: C:/Users/fkeme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.10-06.47.56:003][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.01.10-06.48.21:651][183]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7339.819336
+[2025.01.10-06.48.22:650][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-06.48.22:650][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7340.483887, Update Interval: 346.515686
+[2025.01.10-06.55.00:730][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7738.895508
+[2025.01.10-06.55.01:729][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.10-06.55.01:729][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7739.564941, Update Interval: 307.505737
+[2025.01.10-06.58.57:675][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.10-06.58.59:440][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.10-06.58.59:519][303]LogStall: Shutdown...
+[2025.01.10-06.58.59:519][303]LogStall: Shutdown complete.
+[2025.01.10-06.58.59:578][303]LogSlate: Window 'UdemyProject002 - Unreal Editor' being destroyed
+[2025.01.10-06.58.59:793][303]Cmd: QUIT_EDITOR
+[2025.01.10-06.58.59:793][304]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.10-06.58.59:797][304]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.10-06.58.59:797][304]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.10-06.58.59:797][304]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.10-06.58.59:798][304]LogWorld: UWorld::CleanupWorld for MAP_Overworld, bSessionEnded=true, bCleanupResources=true
+[2025.01.10-06.58.59:798][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.10-06.58.59:811][304]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.01.10-06.58.59:812][304]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.10-06.58.59:820][304]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.10-06.58.59:820][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.10-06.58.59:821][304]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.10-06.59.00:078][304]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.10-06.59.00:078][304]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.10-06.59.00:078][304]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.10-06.59.00:079][304]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.10-06.59.00:079][304]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.10-06.59.00:079][304]LogAudio: Display: Audio Device unregistered from world 'MAP_Overworld'.
+[2025.01.10-06.59.00:079][304]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.10-06.59.00:079][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.10-06.59.00:083][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.10-06.59.00:094][304]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.10-06.59.00:094][304]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.10-06.59.00:096][304]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.10-06.59.00:099][304]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.10-06.59.00:099][304]LogExit: Preparing to exit.
+[2025.01.10-06.59.00:125][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.01.10-06.59.00:750][304]LogEditorDataStorage: Deinitializing
+[2025.01.10-06.59.00:839][304]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.10-06.59.00:895][304]LogExit: Editor shut down
+[2025.01.10-06.59.00:902][304]LogExit: Transaction tracking system shut down
+[2025.01.10-06.59.01:134][304]LogExit: Object subsystem successfully closed.
+[2025.01.10-06.59.01:191][304]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.10-06.59.02:149][304]LogMemoryProfiler: Shutdown
+[2025.01.10-06.59.02:149][304]LogNetworkingProfiler: Shutdown
+[2025.01.10-06.59.02:149][304]LoadingProfiler: Shutdown
+[2025.01.10-06.59.02:149][304]LogTimingProfiler: Shutdown
+[2025.01.10-06.59.02:568][304]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.01.10-06.59.02:586][304]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.10-06.59.02:586][304]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17E0A344-4C97-96AF-A02D-049CA1100DC9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=390871c54faf0801327b6e86cee801bb%7C52547663e5c24e8f843ebfd3a3fc5102%7Cb2a44443-7090-4e4d-a23f-e47737ba1316&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.10-06.59.03:105][304]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.01.10-06.59.03:105][304]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.10-06.59.03:105][304]LogNFORDenoise: NFORDenoise function shutting down
+[2025.01.10-06.59.03:105][304]RenderDocPlugin: plugin has been unloaded.
+[2025.01.10-06.59.03:112][304]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.01.10-06.59.03:112][304]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.01.10-06.59.03:112][304]LogPakFile: Destroying PakPlatformFile
+[2025.01.10-06.59.03:819][304]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.10-06.59.03:843][304]LogExit: Exiting.
+[2025.01.10-06.59.03:868][304]Log file closed, 01/10/25 01:59:03
