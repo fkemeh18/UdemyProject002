@@ -18,7 +18,10 @@
 				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Tree.uasset",
 				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Chest_Sprite.uasset",
 				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Sign_Sprite.uasset",
-				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Tree_Sprite.uasset"
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Tree_Sprite.uasset",
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_GroundTiles_TileSet.uasset",
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_GroundTiles_TileMap.uasset",
+				"C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_GroundTilesPadded.uasset"
 			]
 		}
 	]
