@@ -1657,3 +1657,1313 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.01.22-07.16.01:511][146]AssetCheck: /Game/Maps/MAP_Overworld Validating asset
 [2025.01.22-07.16.01:512][146]AssetCheck: /Game/PaperAssets/Environment/T_GroundTiles_TileSet Validating asset
 [2025.01.22-07.16.53:478][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.22-07.21.16:854][652]LogStreaming: Display: FlushAsyncLoading(485): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.22-07.21.16:856][652]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Environment/T_Flower.T_Flower
+[2025.01.22-07.21.27:102][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2838.150146
+[2025.01.22-07.21.27:203][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.22-07.21.27:203][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2838.232910, Update Interval: 332.493042
+[2025.01.22-07.21.27:215][993]LogSlate: Window 'T_Flower' being destroyed
+[2025.01.22-07.21.28:938][ 95]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.22-07.21.28:938][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.22-07.21.28:982][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.22-07.27.36:330][891]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3207.375488
+[2025.01.22-07.27.36:449][898]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.22-07.27.36:449][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3207.478516, Update Interval: 358.800629
+[2025.01.22-07.28.48:952][148]LogSlate: Window 'Extract sprites' being destroyed
+[2025.01.22-07.28.49:191][149]LogStreaming: Display: FlushAsyncLoading(486): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.22-07.28.51:948][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.22-07.28.51:952][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.28.52:016][312]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Flower_Sprite_0] ([1] browsable assets)...
+[2025.01.22-07.28.52:018][312]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Environment/T_Flower_Sprite_0.T_Flower_Sprite_0]
+[2025.01.22-07.28.52:018][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Flower_Sprite_0]
+[2025.01.22-07.28.52:020][312]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Flower_Sprite_0
+[2025.01.22-07.28.52:020][312]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Flower_Sprite_0972B0477444590DDB4D51DBDF26B7AB4.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Flower_Sprite_0.uasset'
+[2025.01.22-07.28.52:022][312]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Flower_Sprite_1] ([1] browsable assets)...
+[2025.01.22-07.28.52:024][312]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Environment/T_Flower_Sprite_1.T_Flower_Sprite_1]
+[2025.01.22-07.28.52:024][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Flower_Sprite_1]
+[2025.01.22-07.28.52:026][312]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Flower_Sprite_1
+[2025.01.22-07.28.52:026][312]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Flower_Sprite_14C8EB5BC4A9209C91FAA2A970854BBEE.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Flower_Sprite_1.uasset'
+[2025.01.22-07.28.52:035][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.587 ms (total: 1.55 sec)
+[2025.01.22-07.28.52:094][312]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.22-07.28.52:095][312]LogContentValidation: Enabled validators:
+[2025.01.22-07.28.52:095][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.28.52:095][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.28.52:095][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.28.52:095][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.28.52:095][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.28.52:095][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.28.52:095][312]AssetCheck: /Game/PaperAssets/Environment/T_Flower_Sprite_0 Validating asset
+[2025.01.22-07.28.52:095][312]AssetCheck: /Game/PaperAssets/Environment/T_Flower_Sprite_1 Validating asset
+[2025.01.22-07.28.55:699][528]LogSlate: Window 'Content Browser' being destroyed
+[2025.01.22-07.28.55:708][528]LogSlate: Window 'Content Browser' being destroyed
+[2025.01.22-07.29.29:599][706]LogContentBrowser: Deferred new asset file creation: T_Flower1
+[2025.01.22-07.29.29:606][706]LogContentBrowser: Creating deferred item: T_Flower1
+[2025.01.22-07.29.29:627][707]LogContentBrowser: Renaming the item being created (Deferred Item: T_Flower1).
+[2025.01.22-07.29.46:599][725]LogContentBrowser: Attempting asset rename: T_Flower1 -> T_Flower_Flipbook
+[2025.01.22-07.29.46:600][725]LogContentBrowser: End creating deferred item T_Flower1
+[2025.01.22-07.29.49:106][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.22-07.29.49:111][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.29.49:189][872]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Flower_Flipbook] ([1] browsable assets)...
+[2025.01.22-07.29.49:192][872]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Environment/T_Flower_Flipbook.T_Flower_Flipbook]
+[2025.01.22-07.29.49:192][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Flower_Flipbook]
+[2025.01.22-07.29.49:194][872]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Flower_Flipbook
+[2025.01.22-07.29.49:194][872]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Flower_FlipbookF821928846485326CE6C518FCDA3B9A0.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Flower_Flipbook.uasset'
+[2025.01.22-07.29.49:203][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.690 ms (total: 1.64 sec)
+[2025.01.22-07.29.49:279][872]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.29.49:279][872]LogContentValidation: Enabled validators:
+[2025.01.22-07.29.49:279][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.29.49:279][872]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.29.49:279][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.29.49:279][872]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.29.49:279][872]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.29.49:279][872]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.29.49:280][872]AssetCheck: /Game/PaperAssets/Environment/T_Flower_Flipbook Validating asset
+[2025.01.22-07.29.52:333][ 51]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PaperAssets/Environment/T_Flower_Flipbook.T_Flower_Flipbook
+[2025.01.22-07.29.52:334][ 51]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2025.01.22-07.30.41:185][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.30.41:251][760]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/T_Flower_Flipbook] ([1] browsable assets)...
+[2025.01.22-07.30.41:254][760]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Environment/T_Flower_Flipbook.T_Flower_Flipbook]
+[2025.01.22-07.30.41:254][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/T_Flower_Flipbook]
+[2025.01.22-07.30.41:256][760]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/T_Flower_Flipbook
+[2025.01.22-07.30.41:256][760]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Flower_Flipbook49232FE84197E32658B61B9FC57D2174.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/T_Flower_Flipbook.uasset'
+[2025.01.22-07.30.41:264][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.419 ms (total: 1.72 sec)
+[2025.01.22-07.30.41:318][760]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.30.41:318][760]LogContentValidation: Enabled validators:
+[2025.01.22-07.30.41:318][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.30.41:318][760]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.30.41:318][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.30.41:318][760]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.30.41:318][760]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.30.41:318][760]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.30.41:318][760]AssetCheck: /Game/PaperAssets/Environment/T_Flower_Flipbook Validating asset
+[2025.01.22-07.30.58:303][204]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.01.22-07.30.58:303][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.22-07.30.58:333][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.22-07.31.13:484][106]LogContentBrowser: Attempting asset rename: T_Flower_Flipbook -> FB_Flower
+[2025.01.22-07.31.13:774][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.31.13:775][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/FB_Flower] ([1] browsable assets)...
+[2025.01.22-07.31.13:775][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/FB_Flower]
+[2025.01.22-07.31.13:775][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/FB_Flower" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/FB_Flower.uasset" SILENT=true
+[2025.01.22-07.31.13:776][106]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/FB_Flower
+[2025.01.22-07.31.13:776][106]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Flower615D5EFD409DC3A1FFE33F9D8DA8F5FE.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/FB_Flower.uasset'
+[2025.01.22-07.31.13:777][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.599 ms (total: 1.72 sec)
+[2025.01.22-07.31.13:800][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.22-07.31.13:812][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.22-07.31.13:821][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.01.22-07.31.13:905][106]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.31.13:905][106]LogContentValidation: Enabled validators:
+[2025.01.22-07.31.13:905][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.31.13:905][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.31.13:905][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.31.13:905][106]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.31.13:905][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.31.13:905][106]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.31.13:906][106]AssetCheck: /Game/PaperAssets/Environment/FB_Flower Validating asset
+[2025.01.22-07.31.25:090][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.31.25:138][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/FB_Flower] ([1] browsable assets)...
+[2025.01.22-07.31.25:138][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/FB_Flower]
+[2025.01.22-07.31.25:138][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/FB_Flower" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/FB_Flower.uasset" SILENT=true
+[2025.01.22-07.31.25:139][765]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/FB_Flower
+[2025.01.22-07.31.25:140][765]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Flower1AB9F82046F8F664228745BE68253952.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/FB_Flower.uasset'
+[2025.01.22-07.31.25:150][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.342 ms (total: 1.78 sec)
+[2025.01.22-07.31.25:218][765]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.31.25:218][765]LogContentValidation: Enabled validators:
+[2025.01.22-07.31.25:218][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.31.25:218][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.31.25:218][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.31.25:218][765]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.31.25:218][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.31.25:218][765]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.31.25:218][765]AssetCheck: /Game/PaperAssets/Environment/FB_Flower Validating asset
+[2025.01.22-07.31.26:646][850]LogDerivedDataCache: C:/Users/fkeme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.22-07.31.27:804][917]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PaperAssets/Environment/FB_Flower.FB_Flower
+[2025.01.22-07.31.27:805][917]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2025.01.22-07.32.30:374][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.32.30:441][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/FB_Flower] ([1] browsable assets)...
+[2025.01.22-07.32.30:444][985]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Environment/FB_Flower.FB_Flower]
+[2025.01.22-07.32.30:444][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/FB_Flower]
+[2025.01.22-07.32.30:444][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/FB_Flower" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/FB_Flower.uasset" SILENT=true
+[2025.01.22-07.32.30:445][985]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/FB_Flower
+[2025.01.22-07.32.30:446][985]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_FlowerBCA745AE4A1D57E16D2741811520FA44.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/FB_Flower.uasset'
+[2025.01.22-07.32.30:454][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.727 ms (total: 1.86 sec)
+[2025.01.22-07.32.30:525][985]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.32.30:525][985]LogContentValidation: Enabled validators:
+[2025.01.22-07.32.30:525][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.32.30:525][985]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.32.30:525][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.32.30:525][985]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.32.30:525][985]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.32.30:525][985]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.32.30:526][985]AssetCheck: /Game/PaperAssets/Environment/FB_Flower Validating asset
+[2025.01.22-07.32.51:140][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.32.51:207][219]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/FB_Flower] ([1] browsable assets)...
+[2025.01.22-07.32.51:210][219]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Environment/FB_Flower.FB_Flower]
+[2025.01.22-07.32.51:210][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/FB_Flower]
+[2025.01.22-07.32.51:210][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Environment/FB_Flower" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/FB_Flower.uasset" SILENT=true
+[2025.01.22-07.32.51:211][219]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/FB_Flower
+[2025.01.22-07.32.51:212][219]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Flower7D7CBDBF4A3EAC79DD5519A7A32A170D.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Environment/FB_Flower.uasset'
+[2025.01.22-07.32.51:220][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.106 ms (total: 1.94 sec)
+[2025.01.22-07.32.51:288][219]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.32.51:289][219]LogContentValidation: Enabled validators:
+[2025.01.22-07.32.51:289][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.32.51:289][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.32.51:289][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.32.51:289][219]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.32.51:289][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.32.51:289][219]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.32.51:289][219]AssetCheck: /Game/PaperAssets/Environment/FB_Flower Validating asset
+[2025.01.22-07.33.27:686][778]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.01.22-07.33.27:686][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.22-07.33.27:718][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.22-07.33.55:712][160]LogStreaming: Display: FlushAsyncLoading(487): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.22-07.33.55:713][160]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Characters/T_Green.T_Green
+[2025.01.22-07.34.08:503][909]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.22-07.34.08:613][909]LogInterchangeEngine: [Pending] Importing
+[2025.01.22-07.34.08:613][909]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/PaperAssets/Characters/T_Green.png]
+[2025.01.22-07.34.08:779][912]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.22-07.34.08:833][912]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...perAssets/Characters/T_Green.png]
+[2025.01.22-07.34.08:834][912]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.01.22-07.34.08:834][912]LogInterchangeEngine: [Success] Import Done
+[2025.01.22-07.34.11:312][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.34.11:398][ 52]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/T_Green] ([1] browsable assets)...
+[2025.01.22-07.34.11:401][ 52]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Characters/T_Green.T_Green]
+[2025.01.22-07.34.11:401][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/T_Green]
+[2025.01.22-07.34.11:401][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/T_Green" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Green.uasset" SILENT=true
+[2025.01.22-07.34.11:406][ 52]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/T_Green
+[2025.01.22-07.34.11:407][ 52]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Green08C57F09461FBBAB1C5A598E03BF58CD.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Green.uasset'
+[2025.01.22-07.34.11:416][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.930 ms (total: 2.05 sec)
+[2025.01.22-07.34.11:500][ 52]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.34.11:500][ 52]LogContentValidation: Enabled validators:
+[2025.01.22-07.34.11:500][ 52]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.34.11:500][ 52]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.34.11:500][ 52]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.34.11:500][ 52]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.34.11:500][ 52]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.34.11:500][ 52]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.34.11:500][ 52]AssetCheck: /Game/PaperAssets/Characters/T_Green Validating asset
+[2025.01.22-07.34.19:862][551]LogStreaming: Display: FlushAsyncLoading(499): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.22-07.34.19:863][551]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Characters/T_Red.T_Red
+[2025.01.22-07.34.21:016][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3612.057129
+[2025.01.22-07.34.21:133][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.22-07.34.21:133][607]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3612.156006, Update Interval: 306.086609
+[2025.01.22-07.34.22:814][707]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.22-07.34.22:831][707]LogInterchangeEngine: [Pending] Importing
+[2025.01.22-07.34.22:831][707]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fkeme/Desktop/Game Portfolio/Unreal 5/Monster World Assets/PaperAssets/Characters/T_Red.png]
+[2025.01.22-07.34.22:987][710]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.01.22-07.34.23:030][710]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fkeme/Deskt...perAssets/Characters/T_Red.png]
+[2025.01.22-07.34.23:030][710]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.01.22-07.34.23:030][710]LogInterchangeEngine: [Success] Import Done
+[2025.01.22-07.34.24:379][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.34.24:447][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/T_Red] ([1] browsable assets)...
+[2025.01.22-07.34.24:451][778]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Characters/T_Red.T_Red]
+[2025.01.22-07.34.24:451][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/T_Red]
+[2025.01.22-07.34.24:451][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/T_Red" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Red.uasset" SILENT=true
+[2025.01.22-07.34.24:453][778]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/T_Red
+[2025.01.22-07.34.24:454][778]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red5E1675EB4053472301369EAC42E04D69.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/T_Red.uasset'
+[2025.01.22-07.34.24:463][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.610 ms (total: 2.13 sec)
+[2025.01.22-07.34.24:528][778]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.34.24:528][778]LogContentValidation: Enabled validators:
+[2025.01.22-07.34.24:528][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.34.24:528][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.34.24:528][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.34.24:528][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.34.24:528][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.34.24:528][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.34.24:528][778]AssetCheck: /Game/PaperAssets/Characters/T_Red Validating asset
+[2025.01.22-07.35.00:898][862]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.35.00:906][862]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.35.00:915][863]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.35.11:165][311]LogContentBrowser: Attempting asset rename: NewFolder -> Red
+[2025.01.22-07.35.11:167][311]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.35.15:847][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.22-07.35.24:929][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.35.24:930][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red] ([1] browsable assets)...
+[2025.01.22-07.35.24:930][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red]
+[2025.01.22-07.35.24:930][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/Red/T_Red" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red.uasset" SILENT=true
+[2025.01.22-07.35.24:931][775]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red
+[2025.01.22-07.35.24:931][775]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red11CAE4294C12EC0B74FA4A95E3C7C43F.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red.uasset'
+[2025.01.22-07.35.24:932][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.903 ms (total: 2.13 sec)
+[2025.01.22-07.35.24:963][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.22-07.35.24:975][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.01.22-07.35.24:987][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.01.22-07.35.25:017][775]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.35.25:017][775]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.35.25:017][775]LogContentValidation: Enabled validators:
+[2025.01.22-07.35.25:017][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.35.25:017][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.35.25:017][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.35.25:017][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.35.25:017][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.35.25:017][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.35.25:017][775]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red Validating asset
+[2025.01.22-07.35.27:711][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.01.22-07.35.32:019][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.01.22-07.35.48:718][504]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.35.48:814][504]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.35.48:826][505]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.35.52:436][660]LogContentBrowser: Attempting asset rename: NewFolder -> Green
+[2025.01.22-07.35.52:436][660]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.35.56:899][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.35.56:899][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Green/T_Green] ([1] browsable assets)...
+[2025.01.22-07.35.56:899][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Green/T_Green]
+[2025.01.22-07.35.56:899][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/Green/T_Green" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/T_Green.uasset" SILENT=true
+[2025.01.22-07.35.56:901][863]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Green/T_Green
+[2025.01.22-07.35.56:901][863]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_GreenA6F7D6604D77C3CD3E4F628961192AE9.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/T_Green.uasset'
+[2025.01.22-07.35.56:902][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.272 ms (total: 2.14 sec)
+[2025.01.22-07.35.56:939][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.22-07.35.56:949][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.22-07.35.56:959][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.01.22-07.35.56:990][863]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.35.56:990][863]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.35.56:990][863]LogContentValidation: Enabled validators:
+[2025.01.22-07.35.56:990][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.35.56:990][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.35.56:990][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.35.56:990][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.35.56:990][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.35.56:990][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.35.56:990][863]AssetCheck: /Game/PaperAssets/Characters/Green/T_Green Validating asset
+[2025.01.22-07.35.59:271][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.01.22-07.37.22:965][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.01.22-07.37.57:680][150]LogSlate: Window 'Extract sprites' being destroyed
+[2025.01.22-07.38.00:170][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.22-07.38.00:179][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.38.00:258][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_0] ([1] browsable assets)...
+[2025.01.22-07.38.00:261][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_0.T_Red_Sprite_0]
+[2025.01.22-07.38.00:261][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_0]
+[2025.01.22-07.38.00:263][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_0
+[2025.01.22-07.38.00:263][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_029B1DB234CDFF5EBBD5836A27F1831CA.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_0.uasset'
+[2025.01.22-07.38.00:264][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_1] ([1] browsable assets)...
+[2025.01.22-07.38.00:266][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_1.T_Red_Sprite_1]
+[2025.01.22-07.38.00:266][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_1]
+[2025.01.22-07.38.00:268][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_1
+[2025.01.22-07.38.00:268][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_105778D6242C4A57CD1FCE19F8EDDA900.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_1.uasset'
+[2025.01.22-07.38.00:305][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_2] ([1] browsable assets)...
+[2025.01.22-07.38.00:307][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_2.T_Red_Sprite_2]
+[2025.01.22-07.38.00:307][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_2]
+[2025.01.22-07.38.00:308][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_2
+[2025.01.22-07.38.00:308][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_2A1B227364C451DC8383ADBB94C1E0FD6.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_2.uasset'
+[2025.01.22-07.38.00:313][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_3] ([1] browsable assets)...
+[2025.01.22-07.38.00:315][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_3.T_Red_Sprite_3]
+[2025.01.22-07.38.00:315][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_3]
+[2025.01.22-07.38.00:317][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_3
+[2025.01.22-07.38.00:317][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_3E2C6A31F4A3F5BDE68A4E3A537678042.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_3.uasset'
+[2025.01.22-07.38.00:318][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_4] ([1] browsable assets)...
+[2025.01.22-07.38.00:320][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_4.T_Red_Sprite_4]
+[2025.01.22-07.38.00:320][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_4]
+[2025.01.22-07.38.00:322][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_4
+[2025.01.22-07.38.00:322][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_4639543384A96C3CAD0541FB5DD854165.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_4.uasset'
+[2025.01.22-07.38.00:323][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_5] ([1] browsable assets)...
+[2025.01.22-07.38.00:325][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_5.T_Red_Sprite_5]
+[2025.01.22-07.38.00:325][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_5]
+[2025.01.22-07.38.00:327][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_5
+[2025.01.22-07.38.00:327][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_5E3BA815D486B6755A0F21EBE62AA6240.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_5.uasset'
+[2025.01.22-07.38.00:328][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_6] ([1] browsable assets)...
+[2025.01.22-07.38.00:330][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_6.T_Red_Sprite_6]
+[2025.01.22-07.38.00:330][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_6]
+[2025.01.22-07.38.00:332][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_6
+[2025.01.22-07.38.00:332][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_6B38161EE4367D7D3B04E62B10A649C34.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_6.uasset'
+[2025.01.22-07.38.00:333][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_7] ([1] browsable assets)...
+[2025.01.22-07.38.00:335][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_7.T_Red_Sprite_7]
+[2025.01.22-07.38.00:335][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_7]
+[2025.01.22-07.38.00:337][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_7
+[2025.01.22-07.38.00:338][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_7521795B24AE7BF6EAA613680DDC0E9C7.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_7.uasset'
+[2025.01.22-07.38.00:339][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_8] ([1] browsable assets)...
+[2025.01.22-07.38.00:341][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_8.T_Red_Sprite_8]
+[2025.01.22-07.38.00:341][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_8]
+[2025.01.22-07.38.00:343][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_8
+[2025.01.22-07.38.00:343][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_8F043D38C4BB2650964B9D197104322C4.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_8.uasset'
+[2025.01.22-07.38.00:345][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_9] ([1] browsable assets)...
+[2025.01.22-07.38.00:347][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_9.T_Red_Sprite_9]
+[2025.01.22-07.38.00:347][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_9]
+[2025.01.22-07.38.00:349][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_9
+[2025.01.22-07.38.00:349][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_94EB696E14347E6D61EA164AE7F82FC98.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_9.uasset'
+[2025.01.22-07.38.00:350][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_10] ([1] browsable assets)...
+[2025.01.22-07.38.00:353][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_10.T_Red_Sprite_10]
+[2025.01.22-07.38.00:353][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_10]
+[2025.01.22-07.38.00:355][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_10
+[2025.01.22-07.38.00:355][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_109BE11EBA4AE9B99E5A55BB83690C191A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_10.uasset'
+[2025.01.22-07.38.00:356][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_11] ([1] browsable assets)...
+[2025.01.22-07.38.00:358][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_11.T_Red_Sprite_11]
+[2025.01.22-07.38.00:358][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_11]
+[2025.01.22-07.38.00:360][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_11
+[2025.01.22-07.38.00:360][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_1129986FCF49CD11D8AB7262A59A379E65.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_11.uasset'
+[2025.01.22-07.38.00:362][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_12] ([1] browsable assets)...
+[2025.01.22-07.38.00:364][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_12.T_Red_Sprite_12]
+[2025.01.22-07.38.00:364][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_12]
+[2025.01.22-07.38.00:366][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_12
+[2025.01.22-07.38.00:366][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_1296ECC2C140EE28B453A4BE90B227AADE.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_12.uasset'
+[2025.01.22-07.38.00:368][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_13] ([1] browsable assets)...
+[2025.01.22-07.38.00:370][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_13.T_Red_Sprite_13]
+[2025.01.22-07.38.00:370][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_13]
+[2025.01.22-07.38.00:372][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_13
+[2025.01.22-07.38.00:372][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_134A769F7C438B1D30F23FECAB933E4DB0.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_13.uasset'
+[2025.01.22-07.38.00:373][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_14] ([1] browsable assets)...
+[2025.01.22-07.38.00:375][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_14.T_Red_Sprite_14]
+[2025.01.22-07.38.00:375][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_14]
+[2025.01.22-07.38.00:377][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_14
+[2025.01.22-07.38.00:377][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_14C07547A942AAD6EF0382E3BB817531E4.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_14.uasset'
+[2025.01.22-07.38.00:379][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_15] ([1] browsable assets)...
+[2025.01.22-07.38.00:382][243]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Red/T_Red_Sprite_15.T_Red_Sprite_15]
+[2025.01.22-07.38.00:382][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/T_Red_Sprite_15]
+[2025.01.22-07.38.00:384][243]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/T_Red_Sprite_15
+[2025.01.22-07.38.00:384][243]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_1508A3A8FC44209313A52A36BE41C5BA45.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/T_Red_Sprite_15.uasset'
+[2025.01.22-07.38.00:429][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.475 ms (total: 2.39 sec)
+[2025.01.22-07.38.00:503][243]LogContentValidation: Display: Starting to validate 16 assets
+[2025.01.22-07.38.00:503][243]LogContentValidation: Enabled validators:
+[2025.01.22-07.38.00:503][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.38.00:503][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.38.00:503][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.38.00:503][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.38.00:503][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.38.00:503][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_0 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_1 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_2 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_3 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_4 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_5 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_6 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_7 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_8 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_9 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_10 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_11 Validating asset
+[2025.01.22-07.38.00:504][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_12 Validating asset
+[2025.01.22-07.38.00:505][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_13 Validating asset
+[2025.01.22-07.38.00:505][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_14 Validating asset
+[2025.01.22-07.38.00:505][243]AssetCheck: /Game/PaperAssets/Characters/Red/T_Red_Sprite_15 Validating asset
+[2025.01.22-07.38.07:691][543]LogSlate: Window 'Content Browser' being destroyed
+[2025.01.22-07.38.07:700][543]LogSlate: Window 'Content Browser' being destroyed
+[2025.01.22-07.39.45:311][886]LogContentBrowser: Deferred new asset file creation: T_Red1
+[2025.01.22-07.39.45:320][886]LogContentBrowser: Creating deferred item: T_Red1
+[2025.01.22-07.39.45:332][887]LogContentBrowser: Renaming the item being created (Deferred Item: T_Red1).
+[2025.01.22-07.40.02:417][585]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3953.458740
+[2025.01.22-07.40.02:515][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.22-07.40.02:515][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3953.538086, Update Interval: 358.835419
+[2025.01.22-07.40.08:997][850]LogContentBrowser: Attempting asset rename: T_Red1 -> FB_Red_WalkDown
+[2025.01.22-07.40.08:999][850]LogContentBrowser: End creating deferred item T_Red1
+[2025.01.22-07.40.11:531][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.40.11:685][950]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/FB_Red_WalkDown] ([1] browsable assets)...
+[2025.01.22-07.40.11:688][950]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/FB_Red_WalkDown.FB_Red_WalkDown]
+[2025.01.22-07.40.11:688][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/FB_Red_WalkDown]
+[2025.01.22-07.40.11:689][950]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/FB_Red_WalkDown
+[2025.01.22-07.40.11:689][950]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_WalkDown55AC279C49D135AA9F1E5C8AA41AFCF3.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/FB_Red_WalkDown.uasset'
+[2025.01.22-07.40.11:699][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.452 ms (total: 2.55 sec)
+[2025.01.22-07.40.11:758][950]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.40.11:758][950]LogContentValidation: Enabled validators:
+[2025.01.22-07.40.11:758][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.40.11:758][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.40.11:758][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.40.11:758][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.40.11:758][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.40.11:758][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.40.11:759][950]AssetCheck: /Game/PaperAssets/Characters/Red/FB_Red_WalkDown Validating asset
+[2025.01.22-07.42.20:147][456]LogContentBrowser: Deferred new asset file creation: T_Red1
+[2025.01.22-07.42.20:156][456]LogContentBrowser: Creating deferred item: T_Red1
+[2025.01.22-07.42.20:171][457]LogContentBrowser: Renaming the item being created (Deferred Item: T_Red1).
+[2025.01.22-07.42.46:642][406]LogContentBrowser: Attempting asset rename: T_Red1 -> FB_Red_WalkRight
+[2025.01.22-07.42.46:643][406]LogContentBrowser: End creating deferred item T_Red1
+[2025.01.22-07.42.57:433][802]LogContentBrowser: Deferred new asset file creation: T_Red1
+[2025.01.22-07.42.57:442][802]LogContentBrowser: Creating deferred item: T_Red1
+[2025.01.22-07.42.57:457][803]LogContentBrowser: Renaming the item being created (Deferred Item: T_Red1).
+[2025.01.22-07.43.18:375][530]LogContentBrowser: Attempting asset rename: T_Red1 -> FB_Red_WalkLeft
+[2025.01.22-07.43.18:377][530]LogContentBrowser: End creating deferred item T_Red1
+[2025.01.22-07.43.37:875][212]LogContentBrowser: Deferred new asset file creation: T_Red1
+[2025.01.22-07.43.37:891][212]LogContentBrowser: Creating deferred item: T_Red1
+[2025.01.22-07.43.37:913][213]LogContentBrowser: Renaming the item being created (Deferred Item: T_Red1).
+[2025.01.22-07.43.50:504][654]LogContentBrowser: Attempting asset rename: T_Red1 -> FB_Red_WalkUP
+[2025.01.22-07.43.50:508][654]LogContentBrowser: End creating deferred item T_Red1
+[2025.01.22-07.43.54:448][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.22-07.43.54:457][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.43.54:574][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/FB_Red_WalkRight] ([1] browsable assets)...
+[2025.01.22-07.43.54:577][781]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/FB_Red_WalkRight.FB_Red_WalkRight]
+[2025.01.22-07.43.54:577][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/FB_Red_WalkRight]
+[2025.01.22-07.43.54:579][781]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/FB_Red_WalkRight
+[2025.01.22-07.43.54:579][781]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_WalkRight506A534D44489EA7FB6DE5BE506393A3.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/FB_Red_WalkRight.uasset'
+[2025.01.22-07.43.54:580][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/FB_Red_WalkLeft] ([1] browsable assets)...
+[2025.01.22-07.43.54:582][781]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/FB_Red_WalkLeft.FB_Red_WalkLeft]
+[2025.01.22-07.43.54:583][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/FB_Red_WalkLeft]
+[2025.01.22-07.43.54:584][781]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/FB_Red_WalkLeft
+[2025.01.22-07.43.54:584][781]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_WalkLeft2CB0386C4EC742105FB079A5CB4ACAB7.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/FB_Red_WalkLeft.uasset'
+[2025.01.22-07.43.54:586][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/FB_Red_WalkUP] ([1] browsable assets)...
+[2025.01.22-07.43.54:588][781]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/FB_Red_WalkUP.FB_Red_WalkUP]
+[2025.01.22-07.43.54:588][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/FB_Red_WalkUP]
+[2025.01.22-07.43.54:590][781]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/FB_Red_WalkUP
+[2025.01.22-07.43.54:590][781]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_WalkUP8E4FF3E84843D45F41867E81105FC741.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/FB_Red_WalkUP.uasset'
+[2025.01.22-07.43.54:603][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.048 ms (total: 2.70 sec)
+[2025.01.22-07.43.54:690][781]LogContentValidation: Display: Starting to validate 3 assets
+[2025.01.22-07.43.54:690][781]LogContentValidation: Enabled validators:
+[2025.01.22-07.43.54:690][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.43.54:690][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.43.54:690][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.43.54:690][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.43.54:690][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.43.54:690][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.43.54:690][781]AssetCheck: /Game/PaperAssets/Characters/Red/FB_Red_WalkRight Validating asset
+[2025.01.22-07.43.54:690][781]AssetCheck: /Game/PaperAssets/Characters/Red/FB_Red_WalkLeft Validating asset
+[2025.01.22-07.43.54:690][781]AssetCheck: /Game/PaperAssets/Characters/Red/FB_Red_WalkUP Validating asset
+[2025.01.22-07.44.04:291][156]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.44.04:405][156]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.44.04:418][157]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.44.21:785][772]LogContentBrowser: Attempting asset rename: NewFolder -> Red_FBs
+[2025.01.22-07.44.21:786][772]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.44.37:520][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.44.37:520][403]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkDown] ([1] browsable assets)...
+[2025.01.22-07.44.37:520][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkDown]
+[2025.01.22-07.44.37:521][403]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkDown
+[2025.01.22-07.44.37:521][403]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_WalkDown6959E8314A43EFD906B90CA26729FBF8.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkDown.uasset'
+[2025.01.22-07.44.37:523][403]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkLeft] ([1] browsable assets)...
+[2025.01.22-07.44.37:523][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkLeft]
+[2025.01.22-07.44.37:524][403]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkLeft
+[2025.01.22-07.44.37:524][403]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_WalkLeft9E9DF3F948E1FD0896929A99F746911A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkLeft.uasset'
+[2025.01.22-07.44.37:526][403]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkRight] ([1] browsable assets)...
+[2025.01.22-07.44.37:526][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkRight]
+[2025.01.22-07.44.37:528][403]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkRight
+[2025.01.22-07.44.37:528][403]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_WalkRight7A760002423015D7B8A96AAF83FED679.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkRight.uasset'
+[2025.01.22-07.44.37:530][403]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkUP] ([1] browsable assets)...
+[2025.01.22-07.44.37:531][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkUP]
+[2025.01.22-07.44.37:532][403]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkUP
+[2025.01.22-07.44.37:532][403]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_WalkUP9DB58C41447AE97FE4E6999F72B37D79.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkUP.uasset'
+[2025.01.22-07.44.37:534][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.593 ms (total: 2.71 sec)
+[2025.01.22-07.44.37:625][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.22-07.44.37:638][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.22-07.44.37:652][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.01.22-07.44.37:689][403]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.44.37:689][403]LogContentValidation: Display: Starting to validate 4 assets
+[2025.01.22-07.44.37:689][403]LogContentValidation: Enabled validators:
+[2025.01.22-07.44.37:689][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.44.37:689][403]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.44.37:689][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.44.37:689][403]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.44.37:689][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.44.37:689][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.44.37:689][403]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkDown Validating asset
+[2025.01.22-07.44.37:689][403]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkLeft Validating asset
+[2025.01.22-07.44.37:689][403]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkRight Validating asset
+[2025.01.22-07.44.37:689][403]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_WalkUP Validating asset
+[2025.01.22-07.45.27:119][679]LogContentBrowser: Attempting asset rename: FB_Red_WalkDown -> FB_Red_Walk_Down
+[2025.01.22-07.45.27:329][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.45.27:329][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Down] ([1] browsable assets)...
+[2025.01.22-07.45.27:329][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Down]
+[2025.01.22-07.45.27:330][679]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Down
+[2025.01.22-07.45.27:330][679]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_DownC78FDDEC4C9D84F5455C43B5D2814189.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Down.uasset'
+[2025.01.22-07.45.27:332][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.280 ms (total: 2.72 sec)
+[2025.01.22-07.45.27:361][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.22-07.45.27:375][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.22-07.45.27:388][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.01.22-07.45.27:494][679]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.45.27:494][679]LogContentValidation: Enabled validators:
+[2025.01.22-07.45.27:494][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.45.27:494][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.45.27:494][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.45.27:494][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.45.27:494][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.45.27:494][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.45.27:495][679]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Down Validating asset
+[2025.01.22-07.45.35:327][995]LogContentBrowser: Attempting asset rename: FB_Red_WalkLeft -> FB_Red_Walk_Left
+[2025.01.22-07.45.35:497][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.45.35:497][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Left] ([1] browsable assets)...
+[2025.01.22-07.45.35:497][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Left]
+[2025.01.22-07.45.35:498][995]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Left
+[2025.01.22-07.45.35:498][995]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Left7CF454AF4E07602C4FE030A580F1E386.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Left.uasset'
+[2025.01.22-07.45.35:500][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.292 ms (total: 2.72 sec)
+[2025.01.22-07.45.35:528][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.22-07.45.35:543][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.22-07.45.35:557][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.01.22-07.45.35:656][995]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.45.35:656][995]LogContentValidation: Enabled validators:
+[2025.01.22-07.45.35:656][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.45.35:656][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.45.35:656][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.45.35:656][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.45.35:656][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.45.35:656][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.45.35:656][995]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Left Validating asset
+[2025.01.22-07.45.43:509][319]LogContentBrowser: Attempting asset rename: FB_Red_WalkRight -> FB_Red_Walk_Right
+[2025.01.22-07.45.43:698][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.45.43:698][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Right] ([1] browsable assets)...
+[2025.01.22-07.45.43:698][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Right]
+[2025.01.22-07.45.43:699][319]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Right
+[2025.01.22-07.45.43:699][319]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Right6CD4375B4CF00CD80C30DDA855B50279.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Right.uasset'
+[2025.01.22-07.45.43:701][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.049 ms (total: 2.72 sec)
+[2025.01.22-07.45.43:727][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.22-07.45.43:740][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.22-07.45.43:751][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.01.22-07.45.43:839][319]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.45.43:839][319]LogContentValidation: Enabled validators:
+[2025.01.22-07.45.43:839][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.45.43:839][319]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.45.43:839][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.45.43:840][319]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.45.43:840][319]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.45.43:840][319]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.45.43:840][319]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_Right Validating asset
+[2025.01.22-07.45.48:303][484]LogContentBrowser: Attempting asset rename: FB_Red_WalkUP -> FB_Red_WalkUP
+[2025.01.22-07.46.02:646][  6]LogContentBrowser: Attempting asset rename: FB_Red_WalkUP -> FB_Red_Walk_UP
+[2025.01.22-07.46.02:845][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.46.02:845][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_UP] ([1] browsable assets)...
+[2025.01.22-07.46.02:845][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_UP]
+[2025.01.22-07.46.02:846][  6]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_UP
+[2025.01.22-07.46.02:846][  6]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_UPF60AE3F44E791611C67176BDDC202C15.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_UP.uasset'
+[2025.01.22-07.46.02:848][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.943 ms (total: 2.73 sec)
+[2025.01.22-07.46.02:870][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.01.22-07.46.02:883][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.22-07.46.02:894][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.01.22-07.46.02:976][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.46.02:976][  6]LogContentValidation: Enabled validators:
+[2025.01.22-07.46.02:976][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.46.02:976][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.46.02:976][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.46.02:976][  6]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.46.02:976][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.46.02:976][  6]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.46.02:977][  6]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Walk_UP Validating asset
+[2025.01.22-07.46.54:422][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4365.426270
+[2025.01.22-07.46.55:415][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.22-07.46.55:415][570]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4366.086426, Update Interval: 349.758606
+[2025.01.22-07.47.21:917][178]LogContentBrowser: Deferred new asset file creation: T_Red1
+[2025.01.22-07.47.21:926][178]LogContentBrowser: Creating deferred item: T_Red1
+[2025.01.22-07.47.21:940][179]LogContentBrowser: Renaming the item being created (Deferred Item: T_Red1).
+[2025.01.22-07.47.35:774][727]LogContentBrowser: Attempting asset rename: T_Red1 -> FB_Red_Idle_Down
+[2025.01.22-07.47.35:776][727]LogContentBrowser: End creating deferred item T_Red1
+[2025.01.22-07.47.44:613][ 88]LogContentBrowser: Deferred new asset file creation: T_Red1
+[2025.01.22-07.47.44:624][ 88]LogContentBrowser: Creating deferred item: T_Red1
+[2025.01.22-07.47.44:638][ 89]LogContentBrowser: Renaming the item being created (Deferred Item: T_Red1).
+[2025.01.22-07.48.01:051][698]LogContentBrowser: Attempting asset rename: T_Red1 -> FB_Red_Idle_Right
+[2025.01.22-07.48.01:053][698]LogContentBrowser: End creating deferred item T_Red1
+[2025.01.22-07.48.06:813][937]LogContentBrowser: Deferred new asset file creation: T_Red1
+[2025.01.22-07.48.06:821][937]LogContentBrowser: Creating deferred item: T_Red1
+[2025.01.22-07.48.06:834][938]LogContentBrowser: Renaming the item being created (Deferred Item: T_Red1).
+[2025.01.22-07.48.19:600][398]LogContentBrowser: Attempting asset rename: T_Red1 -> FB_Red_Idle_Left
+[2025.01.22-07.48.19:601][398]LogContentBrowser: End creating deferred item T_Red1
+[2025.01.22-07.48.25:584][633]LogContentBrowser: Deferred new asset file creation: T_Red1
+[2025.01.22-07.48.25:594][633]LogContentBrowser: Creating deferred item: T_Red1
+[2025.01.22-07.48.25:609][634]LogContentBrowser: Renaming the item being created (Deferred Item: T_Red1).
+[2025.01.22-07.48.39:564][132]LogContentBrowser: Attempting asset rename: T_Red1 -> FB_Red_Idle_Up
+[2025.01.22-07.48.39:566][132]LogContentBrowser: End creating deferred item T_Red1
+[2025.01.22-07.48.48:886][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.48.48:886][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Down] ([1] browsable assets)...
+[2025.01.22-07.48.48:890][500]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Down.FB_Red_Idle_Down]
+[2025.01.22-07.48.48:890][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Down]
+[2025.01.22-07.48.48:891][500]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Down
+[2025.01.22-07.48.48:891][500]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_DownA271A5094A9DFCFF9C9279AC9715886F.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Down.uasset'
+[2025.01.22-07.48.48:893][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Left] ([1] browsable assets)...
+[2025.01.22-07.48.48:895][500]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Left.FB_Red_Idle_Left]
+[2025.01.22-07.48.48:895][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Left]
+[2025.01.22-07.48.48:897][500]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Left
+[2025.01.22-07.48.48:897][500]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Left53F0A07D49AB64ED52C43E841AA46C9E.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Left.uasset'
+[2025.01.22-07.48.48:898][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Right] ([1] browsable assets)...
+[2025.01.22-07.48.48:901][500]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Right.FB_Red_Idle_Right]
+[2025.01.22-07.48.48:901][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Right]
+[2025.01.22-07.48.48:902][500]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Right
+[2025.01.22-07.48.48:902][500]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Right77EF688247D165EA1B5B3C95C963260C.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Right.uasset'
+[2025.01.22-07.48.48:904][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Up] ([1] browsable assets)...
+[2025.01.22-07.48.48:907][500]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Up.FB_Red_Idle_Up]
+[2025.01.22-07.48.48:907][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Up]
+[2025.01.22-07.48.48:907][500]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Up
+[2025.01.22-07.48.48:907][500]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_UpCCDD0C654C77A555F2BDF1BA2C38200B.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Up.uasset'
+[2025.01.22-07.48.48:909][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.378 ms (total: 2.75 sec)
+[2025.01.22-07.48.48:985][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.22-07.48.48:999][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.22-07.48.49:013][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.01.22-07.48.49:047][500]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.48.49:047][500]LogContentValidation: Display: Starting to validate 4 assets
+[2025.01.22-07.48.49:047][500]LogContentValidation: Enabled validators:
+[2025.01.22-07.48.49:047][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.48.49:047][500]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.48.49:047][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.48.49:047][500]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.48.49:047][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.48.49:048][500]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.48.49:048][500]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Down Validating asset
+[2025.01.22-07.48.49:048][500]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Left Validating asset
+[2025.01.22-07.48.49:048][500]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Right Validating asset
+[2025.01.22-07.48.49:048][500]AssetCheck: /Game/PaperAssets/Characters/Red/Red_FBs/FB_Red_Idle_Up Validating asset
+[2025.01.22-07.48.59:497][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.22-07.49.24:817][958]LogContentBrowser: Attempting asset rename: Red_FBs -> Animations
+[2025.01.22-07.49.25:060][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.49.25:060][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Down] ([1] browsable assets)...
+[2025.01.22-07.49.25:060][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Down]
+[2025.01.22-07.49.25:062][958]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Down
+[2025.01.22-07.49.25:062][958]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_DownD3C47E4C49B69F23B7E2ED9A4D2F81A2.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Down.uasset'
+[2025.01.22-07.49.25:063][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Right] ([1] browsable assets)...
+[2025.01.22-07.49.25:063][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Right]
+[2025.01.22-07.49.25:064][958]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Right
+[2025.01.22-07.49.25:064][958]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Right3A3EBC4D48AA9B1913EFF287A28A1958.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Right.uasset'
+[2025.01.22-07.49.25:065][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_UP] ([1] browsable assets)...
+[2025.01.22-07.49.25:065][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_UP]
+[2025.01.22-07.49.25:067][958]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_UP
+[2025.01.22-07.49.25:067][958]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_UP5CA18D494728835780B096A51B4AFBF5.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/FB_Red_Walk_UP.uasset'
+[2025.01.22-07.49.25:103][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Left] ([1] browsable assets)...
+[2025.01.22-07.49.25:103][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Left]
+[2025.01.22-07.49.25:104][958]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Left
+[2025.01.22-07.49.25:104][958]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_LeftB9097DA54399C80E843AE9B96FF81417.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Left.uasset'
+[2025.01.22-07.49.25:105][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Right] ([1] browsable assets)...
+[2025.01.22-07.49.25:105][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Right]
+[2025.01.22-07.49.25:106][958]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Right
+[2025.01.22-07.49.25:106][958]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Right0EAEA26A47EA4E795CAE74A0EA8D0080.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Right.uasset'
+[2025.01.22-07.49.25:108][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Down] ([1] browsable assets)...
+[2025.01.22-07.49.25:108][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Down]
+[2025.01.22-07.49.25:109][958]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Down
+[2025.01.22-07.49.25:109][958]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Down38226EEF494D1EA6B9F9908C61D8521A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Down.uasset'
+[2025.01.22-07.49.25:111][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Up] ([1] browsable assets)...
+[2025.01.22-07.49.25:111][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Up]
+[2025.01.22-07.49.25:112][958]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Up
+[2025.01.22-07.49.25:112][958]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_UpBE36A55C4632F934577F239F25DEACC1.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Up.uasset'
+[2025.01.22-07.49.25:114][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Left] ([1] browsable assets)...
+[2025.01.22-07.49.25:114][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Left]
+[2025.01.22-07.49.25:115][958]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Left
+[2025.01.22-07.49.25:115][958]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Left8764D270485560560D057FB7781D8BB7.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Left.uasset'
+[2025.01.22-07.49.25:117][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.561 ms (total: 2.81 sec)
+[2025.01.22-07.49.25:222][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.01.22-07.49.25:236][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.22-07.49.25:250][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.01.22-07.49.25:366][958]LogContentValidation: Display: Starting to validate 8 assets
+[2025.01.22-07.49.25:366][958]LogContentValidation: Enabled validators:
+[2025.01.22-07.49.25:366][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.49.25:366][958]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.49.25:366][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.49.25:366][958]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.49.25:366][958]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.49.25:366][958]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.49.25:366][958]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Down Validating asset
+[2025.01.22-07.49.25:366][958]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Right Validating asset
+[2025.01.22-07.49.25:366][958]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_UP Validating asset
+[2025.01.22-07.49.25:366][958]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Left Validating asset
+[2025.01.22-07.49.25:366][958]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Right Validating asset
+[2025.01.22-07.49.25:366][958]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Walk_Down Validating asset
+[2025.01.22-07.49.25:366][958]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Up Validating asset
+[2025.01.22-07.49.25:367][958]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/FB_Red_Idle_Left Validating asset
+[2025.01.22-07.49.31:779][233]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.49.31:881][233]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.49.31:894][234]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.49.37:223][423]LogContentBrowser: Attempting asset rename: NewFolder -> Idle
+[2025.01.22-07.49.37:223][423]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.49.40:591][570]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.49.40:601][570]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.49.40:613][571]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.49.44:632][715]LogContentBrowser: Attempting asset rename: NewFolder -> Walking
+[2025.01.22-07.49.44:633][715]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.49.54:342][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.49.54:342][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down] ([1] browsable assets)...
+[2025.01.22-07.49.54:342][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down]
+[2025.01.22-07.49.54:343][ 90]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down
+[2025.01.22-07.49.54:343][ 90]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_DownC3843F3F46E136C31A1C52B5375680F5.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down.uasset'
+[2025.01.22-07.49.54:345][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left] ([1] browsable assets)...
+[2025.01.22-07.49.54:345][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left]
+[2025.01.22-07.49.54:346][ 90]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left
+[2025.01.22-07.49.54:346][ 90]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_LeftCD2FAB2B4946D08F0C7C30B9E0A5016C.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left.uasset'
+[2025.01.22-07.49.54:348][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right] ([1] browsable assets)...
+[2025.01.22-07.49.54:348][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right]
+[2025.01.22-07.49.54:350][ 90]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right
+[2025.01.22-07.49.54:350][ 90]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Right3B3563AC47B5F558B1E3DF8B6C0CF24F.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right.uasset'
+[2025.01.22-07.49.54:358][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up] ([1] browsable assets)...
+[2025.01.22-07.49.54:358][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up]
+[2025.01.22-07.49.54:359][ 90]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up
+[2025.01.22-07.49.54:359][ 90]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_UpEA6E412C442A4368F5C99C877B74D7DF.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up.uasset'
+[2025.01.22-07.49.54:361][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.392 ms (total: 2.83 sec)
+[2025.01.22-07.49.54:433][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.22-07.49.54:448][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.22-07.49.54:462][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.22-07.49.54:499][ 90]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.49.54:499][ 90]LogContentValidation: Display: Starting to validate 4 assets
+[2025.01.22-07.49.54:499][ 90]LogContentValidation: Enabled validators:
+[2025.01.22-07.49.54:499][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.49.54:499][ 90]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.49.54:499][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.49.54:499][ 90]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.49.54:499][ 90]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.49.54:499][ 90]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.49.54:499][ 90]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down Validating asset
+[2025.01.22-07.49.54:499][ 90]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left Validating asset
+[2025.01.22-07.49.54:499][ 90]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right Validating asset
+[2025.01.22-07.49.54:499][ 90]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up Validating asset
+[2025.01.22-07.49.59:972][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.49.59:972][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down] ([1] browsable assets)...
+[2025.01.22-07.49.59:972][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down]
+[2025.01.22-07.49.59:974][346]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down
+[2025.01.22-07.49.59:974][346]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Down307FCF3B457DB2574C19A7BF669C2C23.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.uasset'
+[2025.01.22-07.49.59:975][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left] ([1] browsable assets)...
+[2025.01.22-07.49.59:975][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left]
+[2025.01.22-07.49.59:977][346]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left
+[2025.01.22-07.49.59:977][346]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Left707130B0408A906D4F6ECA8903CDC55D.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left.uasset'
+[2025.01.22-07.49.59:979][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right] ([1] browsable assets)...
+[2025.01.22-07.49.59:980][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right]
+[2025.01.22-07.49.59:981][346]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right
+[2025.01.22-07.49.59:981][346]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Right6EA63E3046C4BDDAF6A1A1B6D627A708.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right.uasset'
+[2025.01.22-07.49.59:995][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP] ([1] browsable assets)...
+[2025.01.22-07.49.59:995][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP]
+[2025.01.22-07.49.59:996][346]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP
+[2025.01.22-07.49.59:996][346]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_UPFC5AF19042C733EBC3CE79B17B0BE82E.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP.uasset'
+[2025.01.22-07.49.59:998][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.483 ms (total: 2.85 sec)
+[2025.01.22-07.50.00:069][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.22-07.50.00:084][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.22-07.50.00:095][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.01.22-07.50.00:130][346]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.50.00:130][346]LogContentValidation: Display: Starting to validate 4 assets
+[2025.01.22-07.50.00:130][346]LogContentValidation: Enabled validators:
+[2025.01.22-07.50.00:130][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.50.00:130][346]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.50.00:130][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.50.00:130][346]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.50.00:130][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.50.00:130][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.50.00:130][346]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down Validating asset
+[2025.01.22-07.50.00:130][346]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left Validating asset
+[2025.01.22-07.50.00:130][346]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right Validating asset
+[2025.01.22-07.50.00:131][346]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP Validating asset
+[2025.01.22-07.50.04:564][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.01.22-07.50.54:157][959]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down
+[2025.01.22-07.50.54:158][959]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2025.01.22-07.50.54:824][960]LogPSOHitching: Encountered 50 PSO creation hitches so far (23 graphics, 27 compute). 0 of them were precached.
+[2025.01.22-07.50.57:870][ 72]LogSlate: Window 'FB_Red_Walk_Down' being destroyed
+[2025.01.22-07.51.11:895][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.51.11:961][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down] ([1] browsable assets)...
+[2025.01.22-07.51.11:964][908]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down]
+[2025.01.22-07.51.11:965][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down]
+[2025.01.22-07.51.11:966][908]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down
+[2025.01.22-07.51.11:967][908]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_DownE2DF1FE142BA9A676D1BB09FEA370616.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.uasset'
+[2025.01.22-07.51.11:975][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.356 ms (total: 2.93 sec)
+[2025.01.22-07.51.12:061][908]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.51.12:061][908]LogContentValidation: Enabled validators:
+[2025.01.22-07.51.12:061][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.51.12:061][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.51.12:061][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.51.12:061][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.51.12:061][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.51.12:061][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.51.12:061][908]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down Validating asset
+[2025.01.22-07.52.01:102][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.52.01:158][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down] ([1] browsable assets)...
+[2025.01.22-07.52.01:158][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down]
+[2025.01.22-07.52.01:159][599]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down
+[2025.01.22-07.52.01:160][599]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Down2070B6574109C92E825B6A9E853BFBA9.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.uasset'
+[2025.01.22-07.52.01:167][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.094 ms (total: 3.00 sec)
+[2025.01.22-07.52.01:224][599]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.52.01:224][599]LogContentValidation: Enabled validators:
+[2025.01.22-07.52.01:224][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.52.01:224][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.52.01:224][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.52.01:224][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.52.01:224][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.52.01:224][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.52.01:225][599]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down Validating asset
+[2025.01.22-07.52.26:276][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.22-07.52.26:280][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.52.26:344][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down] ([1] browsable assets)...
+[2025.01.22-07.52.26:347][ 61]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down]
+[2025.01.22-07.52.26:347][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down]
+[2025.01.22-07.52.26:348][ 61]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down
+[2025.01.22-07.52.26:349][ 61]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Down0B00ECD54244C5172FD80291D3B8ED0E.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.uasset'
+[2025.01.22-07.52.26:350][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left] ([1] browsable assets)...
+[2025.01.22-07.52.26:352][ 61]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left.FB_Red_Walk_Left]
+[2025.01.22-07.52.26:352][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left]
+[2025.01.22-07.52.26:353][ 61]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left
+[2025.01.22-07.52.26:354][ 61]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Left0DE548884BF13378E2B5A3A9C1194C3F.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left.uasset'
+[2025.01.22-07.52.26:355][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right] ([1] browsable assets)...
+[2025.01.22-07.52.26:357][ 61]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right.FB_Red_Walk_Right]
+[2025.01.22-07.52.26:357][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right]
+[2025.01.22-07.52.26:358][ 61]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right
+[2025.01.22-07.52.26:359][ 61]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Right642EBE2943184C57208BBDA18B81BC2D.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right.uasset'
+[2025.01.22-07.52.26:360][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP] ([1] browsable assets)...
+[2025.01.22-07.52.26:362][ 61]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP.FB_Red_Walk_UP]
+[2025.01.22-07.52.26:362][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP]
+[2025.01.22-07.52.26:364][ 61]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP
+[2025.01.22-07.52.26:364][ 61]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_UP222AF2754B37D40DF7455CAB13E85822.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP.uasset'
+[2025.01.22-07.52.26:373][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.406 ms (total: 3.09 sec)
+[2025.01.22-07.52.26:427][ 61]LogContentValidation: Display: Starting to validate 4 assets
+[2025.01.22-07.52.26:427][ 61]LogContentValidation: Enabled validators:
+[2025.01.22-07.52.26:427][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.52.26:427][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.52.26:427][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.52.26:427][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.52.26:427][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.52.26:427][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.52.26:427][ 61]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down Validating asset
+[2025.01.22-07.52.26:427][ 61]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left Validating asset
+[2025.01.22-07.52.26:427][ 61]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right Validating asset
+[2025.01.22-07.52.26:427][ 61]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP Validating asset
+[2025.01.22-07.53.01:296][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.22-07.53.01:301][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.53.01:380][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down] ([1] browsable assets)...
+[2025.01.22-07.53.01:382][629]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down.FB_Red_Idle_Down]
+[2025.01.22-07.53.01:383][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down]
+[2025.01.22-07.53.01:384][629]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down
+[2025.01.22-07.53.01:385][629]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Down6B439C64488C9302C08483B66FF85600.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down.uasset'
+[2025.01.22-07.53.01:386][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left] ([1] browsable assets)...
+[2025.01.22-07.53.01:388][629]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left.FB_Red_Idle_Left]
+[2025.01.22-07.53.01:388][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left]
+[2025.01.22-07.53.01:389][629]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left
+[2025.01.22-07.53.01:390][629]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_LeftBC9B87AA4F265FD367D5809E54DE1CC3.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left.uasset'
+[2025.01.22-07.53.01:391][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up] ([1] browsable assets)...
+[2025.01.22-07.53.01:393][629]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up.FB_Red_Idle_Up]
+[2025.01.22-07.53.01:393][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up]
+[2025.01.22-07.53.01:394][629]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up
+[2025.01.22-07.53.01:395][629]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_UpB63789344501BC9010950F892EFFF96A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up.uasset'
+[2025.01.22-07.53.01:396][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right] ([1] browsable assets)...
+[2025.01.22-07.53.01:398][629]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right.FB_Red_Idle_Right]
+[2025.01.22-07.53.01:398][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right]
+[2025.01.22-07.53.01:400][629]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right
+[2025.01.22-07.53.01:401][629]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Right0CBF00754A82240035149F948091D5D2.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right.uasset'
+[2025.01.22-07.53.01:410][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.992 ms (total: 3.20 sec)
+[2025.01.22-07.53.01:460][629]LogContentValidation: Display: Starting to validate 4 assets
+[2025.01.22-07.53.01:460][629]LogContentValidation: Enabled validators:
+[2025.01.22-07.53.01:460][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.53.01:460][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.53.01:460][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.53.01:460][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.53.01:460][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.53.01:460][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.53.01:460][629]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down Validating asset
+[2025.01.22-07.53.01:460][629]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left Validating asset
+[2025.01.22-07.53.01:460][629]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up Validating asset
+[2025.01.22-07.53.01:460][629]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right Validating asset
+[2025.01.22-07.53.24:438][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.01.22-07.53.28:957][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4759.895508
+[2025.01.22-07.53.29:073][913]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.22-07.53.29:073][914]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4759.995117, Update Interval: 339.985962
+[2025.01.22-07.54.06:949][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.54.07:001][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down] ([1] browsable assets)...
+[2025.01.22-07.54.07:001][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down]
+[2025.01.22-07.54.07:002][132]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down
+[2025.01.22-07.54.07:003][132]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Down06721AC24A5EEB76BF9751AB45EE6415.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.uasset'
+[2025.01.22-07.54.07:005][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left] ([1] browsable assets)...
+[2025.01.22-07.54.07:005][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left]
+[2025.01.22-07.54.07:006][132]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left
+[2025.01.22-07.54.07:007][132]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Left980CF650451845D226FE3591FFBED29C.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left.uasset'
+[2025.01.22-07.54.07:009][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right] ([1] browsable assets)...
+[2025.01.22-07.54.07:009][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right]
+[2025.01.22-07.54.07:010][132]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right
+[2025.01.22-07.54.07:011][132]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Right21661B2A4752AE52D910ACAB1A50F318.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right.uasset'
+[2025.01.22-07.54.07:013][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP] ([1] browsable assets)...
+[2025.01.22-07.54.07:013][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP]
+[2025.01.22-07.54.07:014][132]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP
+[2025.01.22-07.54.07:015][132]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_UPF122F3E543FF9A1B1828538029B6DE12.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP.uasset'
+[2025.01.22-07.54.07:026][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.613 ms (total: 3.27 sec)
+[2025.01.22-07.54.07:098][132]LogContentValidation: Display: Starting to validate 4 assets
+[2025.01.22-07.54.07:098][132]LogContentValidation: Enabled validators:
+[2025.01.22-07.54.07:098][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.54.07:098][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.54.07:098][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.54.07:098][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.54.07:098][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.54.07:098][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.54.07:098][132]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down Validating asset
+[2025.01.22-07.54.07:098][132]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left Validating asset
+[2025.01.22-07.54.07:098][132]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right Validating asset
+[2025.01.22-07.54.07:098][132]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP Validating asset
+[2025.01.22-07.54.37:912][695]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right.FB_Red_Walk_Right
+[2025.01.22-07.54.37:914][695]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2025.01.22-07.54.46:483][188]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.22-07.54.46:483][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.22-07.54.46:525][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.01.22-07.54.49:066][338]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.22-07.54.49:066][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.22-07.54.49:086][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.22-07.55.14:305][782]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.55.14:314][782]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.55.14:325][783]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.55.18:716][966]LogContentBrowser: Attempting asset rename: NewFolder -> Frames
+[2025.01.22-07.55.18:717][966]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.55.27:558][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.55.27:558][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down] ([1] browsable assets)...
+[2025.01.22-07.55.27:558][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down]
+[2025.01.22-07.55.27:559][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down
+[2025.01.22-07.55.27:560][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Down9F6C77594974D490DDCCBFB4DE144751.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.uasset'
+[2025.01.22-07.55.27:562][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down] ([1] browsable assets)...
+[2025.01.22-07.55.27:562][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down]
+[2025.01.22-07.55.27:564][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down
+[2025.01.22-07.55.27:565][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Down46C7B4C54B04D9D63B6770810B6CFB28.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down.uasset'
+[2025.01.22-07.55.27:566][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right] ([1] browsable assets)...
+[2025.01.22-07.55.27:567][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right]
+[2025.01.22-07.55.27:568][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right
+[2025.01.22-07.55.27:569][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Right11DCB35F464BA839690694B4E8E28694.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right.uasset'
+[2025.01.22-07.55.27:570][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right] ([1] browsable assets)...
+[2025.01.22-07.55.27:570][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right]
+[2025.01.22-07.55.27:571][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right
+[2025.01.22-07.55.27:572][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Right5CE6BAED4FB9B3D621542D922B7E193B.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right.uasset'
+[2025.01.22-07.55.27:574][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left] ([1] browsable assets)...
+[2025.01.22-07.55.27:574][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left]
+[2025.01.22-07.55.27:576][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left
+[2025.01.22-07.55.27:577][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_Left25F8CDD14B5EFB412AAF67A87771387A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left.uasset'
+[2025.01.22-07.55.27:579][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left] ([1] browsable assets)...
+[2025.01.22-07.55.27:579][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left]
+[2025.01.22-07.55.27:580][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left
+[2025.01.22-07.55.27:581][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Left156F50DC494B66FD85CDE59DF801B39C.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left.uasset'
+[2025.01.22-07.55.27:583][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP] ([1] browsable assets)...
+[2025.01.22-07.55.27:583][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP]
+[2025.01.22-07.55.27:586][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP
+[2025.01.22-07.55.27:587][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Walk_UP6621465B48416E3F20DB099831852DA3.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP.uasset'
+[2025.01.22-07.55.27:589][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up] ([1] browsable assets)...
+[2025.01.22-07.55.27:589][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up]
+[2025.01.22-07.55.27:590][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up
+[2025.01.22-07.55.27:591][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_Red_Idle_Up874E725943ADB12B1D601D890201D1FF.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up.uasset'
+[2025.01.22-07.55.27:592][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0] ([1] browsable assets)...
+[2025.01.22-07.55.27:592][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0]
+[2025.01.22-07.55.27:594][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0
+[2025.01.22-07.55.27:594][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_0E0693A9A4BC2E8CFDCFE09B7F4C652DB.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0.uasset'
+[2025.01.22-07.55.27:596][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1] ([1] browsable assets)...
+[2025.01.22-07.55.27:596][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1]
+[2025.01.22-07.55.27:598][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1
+[2025.01.22-07.55.27:598][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_18C4430C947C97B4AAA35ED902C2A3590.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1.uasset'
+[2025.01.22-07.55.27:600][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2] ([1] browsable assets)...
+[2025.01.22-07.55.27:600][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2]
+[2025.01.22-07.55.27:603][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2
+[2025.01.22-07.55.27:603][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_26E5F21C0445346963D064692EC2D7AEA.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2.uasset'
+[2025.01.22-07.55.27:608][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3] ([1] browsable assets)...
+[2025.01.22-07.55.27:608][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3]
+[2025.01.22-07.55.27:610][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3
+[2025.01.22-07.55.27:610][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_339641ED44033BAFBC8B28181EFE1A9A9.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3.uasset'
+[2025.01.22-07.55.27:612][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4] ([1] browsable assets)...
+[2025.01.22-07.55.27:612][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4]
+[2025.01.22-07.55.27:613][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4
+[2025.01.22-07.55.27:613][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_4CFE9BAED4EE439AB3CD72296C9DEF15A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4.uasset'
+[2025.01.22-07.55.27:615][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5] ([1] browsable assets)...
+[2025.01.22-07.55.27:615][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5]
+[2025.01.22-07.55.27:617][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5
+[2025.01.22-07.55.27:617][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_5DDFE849B4FC72BC350CF96B9D6C8E0CD.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5.uasset'
+[2025.01.22-07.55.27:619][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6] ([1] browsable assets)...
+[2025.01.22-07.55.27:619][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6]
+[2025.01.22-07.55.27:621][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6
+[2025.01.22-07.55.27:621][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_62AE016804110D13D7D3811B89EFEDCEB.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6.uasset'
+[2025.01.22-07.55.27:623][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7] ([1] browsable assets)...
+[2025.01.22-07.55.27:623][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7]
+[2025.01.22-07.55.27:625][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7
+[2025.01.22-07.55.27:625][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_7A8909B54419E8AEF2578BAB7A9318793.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7.uasset'
+[2025.01.22-07.55.27:626][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8] ([1] browsable assets)...
+[2025.01.22-07.55.27:626][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8]
+[2025.01.22-07.55.27:628][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8
+[2025.01.22-07.55.27:629][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_8651131D04494E576C7733DAC83C3E8EE.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8.uasset'
+[2025.01.22-07.55.27:630][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9] ([1] browsable assets)...
+[2025.01.22-07.55.27:630][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9]
+[2025.01.22-07.55.27:632][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9
+[2025.01.22-07.55.27:632][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_9C9B59C504803348DE197278EE41CCF8F.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9.uasset'
+[2025.01.22-07.55.27:634][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10] ([1] browsable assets)...
+[2025.01.22-07.55.27:634][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10]
+[2025.01.22-07.55.27:636][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10
+[2025.01.22-07.55.27:636][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_10051DCFCF4D455C4FA9DD6EBB0CFF2509.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10.uasset'
+[2025.01.22-07.55.27:637][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11] ([1] browsable assets)...
+[2025.01.22-07.55.27:637][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11]
+[2025.01.22-07.55.27:640][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11
+[2025.01.22-07.55.27:640][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_111006E0A4403ECD9CD8FF32B3C28BBE90.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11.uasset'
+[2025.01.22-07.55.27:641][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12] ([1] browsable assets)...
+[2025.01.22-07.55.27:641][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12]
+[2025.01.22-07.55.27:643][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12
+[2025.01.22-07.55.27:643][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_1292600D974C2A1BB104520D969E2BB510.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12.uasset'
+[2025.01.22-07.55.27:645][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13] ([1] browsable assets)...
+[2025.01.22-07.55.27:645][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13]
+[2025.01.22-07.55.27:647][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13
+[2025.01.22-07.55.27:647][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_13E6530A0D45092C0EFC8CF4A452123AA7.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13.uasset'
+[2025.01.22-07.55.27:648][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14] ([1] browsable assets)...
+[2025.01.22-07.55.27:648][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14]
+[2025.01.22-07.55.27:650][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14
+[2025.01.22-07.55.27:650][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_14F080C8D04A7E6DAC4800E697AF03DB33.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14.uasset'
+[2025.01.22-07.55.27:651][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15] ([1] browsable assets)...
+[2025.01.22-07.55.27:651][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15]
+[2025.01.22-07.55.27:653][347]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15
+[2025.01.22-07.55.27:653][347]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_157F53EEEA437CCAF7268C5B8025BDB08A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15.uasset'
+[2025.01.22-07.55.27:655][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.668 ms (total: 3.37 sec)
+[2025.01.22-07.55.27:825][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.22-07.55.27:837][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.22-07.55.27:847][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.01.22-07.55.27:887][347]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.55.27:887][347]LogContentValidation: Display: Starting to validate 24 assets
+[2025.01.22-07.55.27:887][347]LogContentValidation: Enabled validators:
+[2025.01.22-07.55.27:887][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.55.27:887][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.55.27:887][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.55.27:887][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.55.27:887][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.55.27:887][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.55.27:887][347]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down Validating asset
+[2025.01.22-07.55.27:887][347]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Down Validating asset
+[2025.01.22-07.55.27:887][347]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Right Validating asset
+[2025.01.22-07.55.27:887][347]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Right Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Left Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Left Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_UP Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Animations/Idle/FB_Red_Idle_Up Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9 Validating asset
+[2025.01.22-07.55.27:888][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10 Validating asset
+[2025.01.22-07.55.27:889][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11 Validating asset
+[2025.01.22-07.55.27:889][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12 Validating asset
+[2025.01.22-07.55.27:889][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13 Validating asset
+[2025.01.22-07.55.27:889][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14 Validating asset
+[2025.01.22-07.55.27:889][347]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15 Validating asset
+[2025.01.22-07.56.00:533][868]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.56.00:640][868]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.56.00:653][869]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.56.06:055][ 97]LogContentBrowser: Attempting asset rename: NewFolder -> Texture
+[2025.01.22-07.56.06:055][ 97]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.56.10:185][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.56.10:185][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0] ([1] browsable assets)...
+[2025.01.22-07.56.10:185][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0]
+[2025.01.22-07.56.10:186][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0
+[2025.01.22-07.56.10:187][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_0D98784E84B34D2DE7E0897AA6239544D.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0.uasset'
+[2025.01.22-07.56.10:188][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1] ([1] browsable assets)...
+[2025.01.22-07.56.10:188][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1]
+[2025.01.22-07.56.10:190][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1
+[2025.01.22-07.56.10:191][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_18B6DDA1C4635740F48F7DEACDD493CEB.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1.uasset'
+[2025.01.22-07.56.10:192][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2] ([1] browsable assets)...
+[2025.01.22-07.56.10:192][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2]
+[2025.01.22-07.56.10:194][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2
+[2025.01.22-07.56.10:195][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_26FA33850447AA6B8AE6642A84A4D5C0B.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2.uasset'
+[2025.01.22-07.56.10:197][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3] ([1] browsable assets)...
+[2025.01.22-07.56.10:197][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3]
+[2025.01.22-07.56.10:199][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3
+[2025.01.22-07.56.10:200][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_3DA7D6F474C09E85C3A23C59DC2BF5762.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3.uasset'
+[2025.01.22-07.56.10:202][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4] ([1] browsable assets)...
+[2025.01.22-07.56.10:202][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4]
+[2025.01.22-07.56.10:204][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4
+[2025.01.22-07.56.10:206][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_4605D8DB9423D3A5DA71CDFB149421B09.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4.uasset'
+[2025.01.22-07.56.10:207][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5] ([1] browsable assets)...
+[2025.01.22-07.56.10:208][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5]
+[2025.01.22-07.56.10:210][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5
+[2025.01.22-07.56.10:211][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_581A9AA894D25D194B8AF73B189915A72.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5.uasset'
+[2025.01.22-07.56.10:213][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6] ([1] browsable assets)...
+[2025.01.22-07.56.10:213][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6]
+[2025.01.22-07.56.10:215][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6
+[2025.01.22-07.56.10:216][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_6E8ACF5854926EBA60F9594A69D83E98D.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6.uasset'
+[2025.01.22-07.56.10:218][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7] ([1] browsable assets)...
+[2025.01.22-07.56.10:218][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7]
+[2025.01.22-07.56.10:221][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7
+[2025.01.22-07.56.10:222][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_7812B19E3439A145ED372A0840C517742.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7.uasset'
+[2025.01.22-07.56.10:223][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8] ([1] browsable assets)...
+[2025.01.22-07.56.10:223][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8]
+[2025.01.22-07.56.10:225][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8
+[2025.01.22-07.56.10:226][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_871CB400841086FE0D2B5469FD560B285.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8.uasset'
+[2025.01.22-07.56.10:227][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9] ([1] browsable assets)...
+[2025.01.22-07.56.10:227][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9]
+[2025.01.22-07.56.10:229][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9
+[2025.01.22-07.56.10:230][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_9DE00B811499AD42AD0D21AA358E4AA93.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9.uasset'
+[2025.01.22-07.56.10:231][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10] ([1] browsable assets)...
+[2025.01.22-07.56.10:231][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10]
+[2025.01.22-07.56.10:233][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10
+[2025.01.22-07.56.10:234][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_1037ED74B04AE7ADF01D43BBBBA315C863.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10.uasset'
+[2025.01.22-07.56.10:235][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11] ([1] browsable assets)...
+[2025.01.22-07.56.10:236][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11]
+[2025.01.22-07.56.10:237][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11
+[2025.01.22-07.56.10:238][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_110825BEFB41A7D49C017654AB35961049.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11.uasset'
+[2025.01.22-07.56.10:239][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12] ([1] browsable assets)...
+[2025.01.22-07.56.10:239][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12]
+[2025.01.22-07.56.10:241][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12
+[2025.01.22-07.56.10:242][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_12B43FAAEE460FBA89E113E1A766C29B91.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12.uasset'
+[2025.01.22-07.56.10:244][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13] ([1] browsable assets)...
+[2025.01.22-07.56.10:244][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13]
+[2025.01.22-07.56.10:246][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13
+[2025.01.22-07.56.10:247][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_13885DB26A45BD63FD98600FB0F6BCA074.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13.uasset'
+[2025.01.22-07.56.10:248][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14] ([1] browsable assets)...
+[2025.01.22-07.56.10:248][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14]
+[2025.01.22-07.56.10:250][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14
+[2025.01.22-07.56.10:251][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_14F048B5314B1E9F34A0D543BA6E348D94.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14.uasset'
+[2025.01.22-07.56.10:252][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15] ([1] browsable assets)...
+[2025.01.22-07.56.10:252][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15]
+[2025.01.22-07.56.10:254][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15
+[2025.01.22-07.56.10:255][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Red_Sprite_153AAC379241FC1882A4860AAEA941316D.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15.uasset'
+[2025.01.22-07.56.10:258][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Red/Texture/T_Red] ([1] browsable assets)...
+[2025.01.22-07.56.10:258][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Red/Texture/T_Red]
+[2025.01.22-07.56.10:261][283]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Red/Texture/T_Red
+[2025.01.22-07.56.10:261][283]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_RedC7BA061B4B06A89D464496A2F2BFD09D.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Red/Texture/T_Red.uasset'
+[2025.01.22-07.56.10:262][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.362 ms (total: 3.45 sec)
+[2025.01.22-07.56.10:302][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.01.22-07.56.10:315][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.01.22-07.56.10:325][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.01.22-07.56.10:364][283]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.56.10:364][283]LogContentValidation: Display: Starting to validate 17 assets
+[2025.01.22-07.56.10:364][283]LogContentValidation: Enabled validators:
+[2025.01.22-07.56.10:364][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.56.10:364][283]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.56.10:364][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.56.10:364][283]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.56.10:364][283]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.56.10:364][283]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.56.10:364][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_0 Validating asset
+[2025.01.22-07.56.10:364][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_1 Validating asset
+[2025.01.22-07.56.10:364][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_2 Validating asset
+[2025.01.22-07.56.10:364][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_3 Validating asset
+[2025.01.22-07.56.10:364][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_4 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_5 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_6 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_7 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_8 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_9 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_10 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_11 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_12 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_13 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_14 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Frames/T_Red_Sprite_15 Validating asset
+[2025.01.22-07.56.10:365][283]AssetCheck: /Game/PaperAssets/Characters/Red/Texture/T_Red Validating asset
+[2025.01.22-07.56.54:319][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.56.54:460][935]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Green/T_Green_Sprite] ([1] browsable assets)...
+[2025.01.22-07.56.54:463][935]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Green/T_Green_Sprite.T_Green_Sprite]
+[2025.01.22-07.56.54:463][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Green/T_Green_Sprite]
+[2025.01.22-07.56.54:465][935]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Green/T_Green_Sprite
+[2025.01.22-07.56.54:465][935]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Green_SpriteA275BC344BEC912499C216BEE87FD183.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/T_Green_Sprite.uasset'
+[2025.01.22-07.56.54:474][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.512 ms (total: 3.60 sec)
+[2025.01.22-07.56.54:520][935]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.56.54:520][935]LogContentValidation: Enabled validators:
+[2025.01.22-07.56.54:520][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.56.54:520][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.56.54:520][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.56.54:520][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.56.54:520][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.56.54:520][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.56.54:520][935]AssetCheck: /Game/PaperAssets/Characters/Green/T_Green_Sprite Validating asset
+[2025.01.22-07.56.57:560][ 63]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/PaperAssets/Characters/Green/T_Green_Sprite.T_Green_Sprite
+[2025.01.22-07.56.57:561][ 63]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.01.22-07.57.04:927][295]LogSlate: Window 'T_Green_Sprite' being destroyed
+[2025.01.22-07.57.24:253][763]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.01.22-07.57.24:253][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.22-07.57.24:294][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.22-07.57.29:104][983]LogContentBrowser: Deferred new asset file creation: T_Green_Flipbook
+[2025.01.22-07.57.29:112][983]LogContentBrowser: Creating deferred item: T_Green_Flipbook
+[2025.01.22-07.57.29:126][984]LogContentBrowser: Renaming the item being created (Deferred Item: T_Green_Flipbook).
+[2025.01.22-07.57.35:032][215]LogContentBrowser: Attempting asset rename: T_Green_Flipbook -> FB_Green
+[2025.01.22-07.57.35:033][215]LogContentBrowser: End creating deferred item T_Green_Flipbook
+[2025.01.22-07.57.37:576][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.57.37:691][312]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Green/FB_Green] ([1] browsable assets)...
+[2025.01.22-07.57.37:694][312]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Characters/Green/FB_Green.FB_Green]
+[2025.01.22-07.57.37:694][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Green/FB_Green]
+[2025.01.22-07.57.37:694][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/Green/FB_Green" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/FB_Green.uasset" SILENT=true
+[2025.01.22-07.57.37:695][312]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Green/FB_Green
+[2025.01.22-07.57.37:695][312]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_GreenFE815D814A6E3EC2330B85BE91E51086.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/FB_Green.uasset'
+[2025.01.22-07.57.37:705][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.938 ms (total: 3.73 sec)
+[2025.01.22-07.57.37:773][312]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-07.57.37:773][312]LogContentValidation: Enabled validators:
+[2025.01.22-07.57.37:773][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.57.37:773][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.57.37:773][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.57.37:773][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.57.37:773][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.57.37:773][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.57.37:773][312]AssetCheck: /Game/PaperAssets/Characters/Green/FB_Green Validating asset
+[2025.01.22-07.57.41:178][466]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.57.41:189][466]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.57.41:202][467]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.57.45:578][636]LogContentBrowser: Attempting asset rename: NewFolder -> Texture
+[2025.01.22-07.57.45:579][636]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.57.50:322][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.57.50:322][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Green/T_Green_Sprite] ([1] browsable assets)...
+[2025.01.22-07.57.50:322][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Green/T_Green_Sprite]
+[2025.01.22-07.57.50:324][850]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Green/T_Green_Sprite
+[2025.01.22-07.57.50:325][850]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Green_Sprite90BCAE544B0968C20F2FB2A63FD1D670.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/T_Green_Sprite.uasset'
+[2025.01.22-07.57.50:326][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Green/Texture/T_Green] ([1] browsable assets)...
+[2025.01.22-07.57.50:327][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Green/Texture/T_Green]
+[2025.01.22-07.57.50:328][850]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Green/Texture/T_Green
+[2025.01.22-07.57.50:328][850]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_GreenD850E9BF41B38E6335DF85805E4D3AF6.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/Texture/T_Green.uasset'
+[2025.01.22-07.57.50:330][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.399 ms (total: 3.74 sec)
+[2025.01.22-07.57.50:370][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.01.22-07.57.50:383][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.22-07.57.50:394][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.01.22-07.57.50:432][850]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.57.50:432][850]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.22-07.57.50:432][850]LogContentValidation: Enabled validators:
+[2025.01.22-07.57.50:432][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.57.50:432][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.57.50:432][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.57.50:432][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.57.50:432][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.57.50:432][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.57.50:432][850]AssetCheck: /Game/PaperAssets/Characters/Green/T_Green_Sprite Validating asset
+[2025.01.22-07.57.50:432][850]AssetCheck: /Game/PaperAssets/Characters/Green/Texture/T_Green Validating asset
+[2025.01.22-07.57.55:762][ 97]LogContentBrowser: Attempting asset rename: Texture -> Texture
+[2025.01.22-07.58.00:470][278]LogContentBrowser: Attempting asset rename: Texture -> Textures
+[2025.01.22-07.58.00:690][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.58.00:690][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Green/T_Green_Sprite] ([1] browsable assets)...
+[2025.01.22-07.58.00:690][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Green/T_Green_Sprite]
+[2025.01.22-07.58.00:692][278]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Green/T_Green_Sprite
+[2025.01.22-07.58.00:692][278]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Green_SpriteDF06DD984E01E1A3E79DC0A38BC3454E.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/T_Green_Sprite.uasset'
+[2025.01.22-07.58.00:694][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Green/Textures/T_Green] ([1] browsable assets)...
+[2025.01.22-07.58.00:694][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Green/Textures/T_Green]
+[2025.01.22-07.58.00:696][278]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Green/Textures/T_Green
+[2025.01.22-07.58.00:696][278]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Green74798D18436F410F04555AB4119F080A.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/Textures/T_Green.uasset'
+[2025.01.22-07.58.00:697][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.530 ms (total: 3.74 sec)
+[2025.01.22-07.58.00:721][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.22-07.58.00:736][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.22-07.58.00:747][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.22-07.58.00:843][278]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.22-07.58.00:843][278]LogContentValidation: Enabled validators:
+[2025.01.22-07.58.00:843][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.58.00:843][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.58.00:843][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.58.00:843][278]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.58.00:844][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.58.00:844][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.58.00:844][278]AssetCheck: /Game/PaperAssets/Characters/Green/T_Green_Sprite Validating asset
+[2025.01.22-07.58.00:844][278]AssetCheck: /Game/PaperAssets/Characters/Green/Textures/T_Green Validating asset
+[2025.01.22-07.58.03:656][412]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.58.03:755][412]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.58.03:768][413]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.58.09:261][620]LogContentBrowser: Attempting asset rename: NewFolder -> Sprites
+[2025.01.22-07.58.09:261][620]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.58.12:809][779]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.22-07.58.12:817][779]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.22-07.58.12:830][780]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.22-07.58.17:162][940]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2025.01.22-07.58.17:163][940]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.22-07.58.29:127][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-07.58.29:127][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Green/FB_Green] ([1] browsable assets)...
+[2025.01.22-07.58.29:127][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Green/FB_Green]
+[2025.01.22-07.58.29:127][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/Green/FB_Green" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/FB_Green.uasset" SILENT=true
+[2025.01.22-07.58.29:128][479]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Green/FB_Green
+[2025.01.22-07.58.29:129][479]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/FB_GreenB2F67FFC4E03AFE6E9B22097A05BABD8.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/FB_Green.uasset'
+[2025.01.22-07.58.29:131][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Green/Sprites/T_Green_Sprite] ([1] browsable assets)...
+[2025.01.22-07.58.29:131][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Green/Sprites/T_Green_Sprite]
+[2025.01.22-07.58.29:132][479]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Green/Sprites/T_Green_Sprite
+[2025.01.22-07.58.29:133][479]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/T_Green_Sprite61118189484C989143D83A924CC41DE3.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/PaperAssets/Characters/Green/Sprites/T_Green_Sprite.uasset'
+[2025.01.22-07.58.29:134][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.139 ms (total: 3.75 sec)
+[2025.01.22-07.58.29:175][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.01.22-07.58.29:189][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.22-07.58.29:202][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.01.22-07.58.29:237][479]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.22-07.58.29:238][479]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.22-07.58.29:238][479]LogContentValidation: Enabled validators:
+[2025.01.22-07.58.29:238][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-07.58.29:238][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-07.58.29:238][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-07.58.29:238][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-07.58.29:238][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-07.58.29:238][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-07.58.29:238][479]AssetCheck: /Game/PaperAssets/Characters/Green/FB_Green Validating asset
+[2025.01.22-07.58.29:238][479]AssetCheck: /Game/PaperAssets/Characters/Green/Sprites/T_Green_Sprite Validating asset
+[2025.01.22-07.59.44:326][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5135.241211
+[2025.01.22-07.59.44:446][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.22-07.59.44:446][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5135.336914, Update Interval: 354.869232
+[2025.01.22-07.59.48:281][397]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down
+[2025.01.22-07.59.48:281][397]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down
+[2025.01.22-07.59.48:282][397]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down as actor: PaperFlipbookActor /Game/Maps/MAP_Overworld.MAP_Overworld:PersistentLevel.PaperFlipbookActor_0
+[2025.01.22-07.59.48:282][397]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down as actor: PaperFlipbookActor /Game/Maps/MAP_Overworld.MAP_Overworld:PersistentLevel.PaperFlipbookActor_0
+[2025.01.22-07.59.49:570][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.22-07.59.49:572][472]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.01.22-07.59.49:579][472]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down
+[2025.01.22-07.59.49:579][472]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down
+[2025.01.22-07.59.49:580][472]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down as actor: PaperFlipbookActor /Game/Maps/MAP_Overworld.MAP_Overworld:PersistentLevel.PaperFlipbookActor_1
+[2025.01.22-07.59.49:581][472]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/PaperAssets/Characters/Red/Animations/Walking/FB_Red_Walk_Down.FB_Red_Walk_Down as actor: PaperFlipbookActor /Game/Maps/MAP_Overworld.MAP_Overworld:PersistentLevel.PaperFlipbookActor_1
+[2025.01.22-08.00.19:762][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.22-08.00.19:912][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Overworld" FILE="C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Maps/MAP_Overworld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.22-08.00.20:004][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.22-08.00.20:010][368]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Overworld
+[2025.01.22-08.00.20:011][368]LogSavePackage: Moving 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Saved/MAP_OverworldD1389DA249F7049F27B8CB8634A499CA.tmp' to 'C:/Users/fkeme/Documents/Unreal Projects/UdemyProject002/Content/Maps/MAP_Overworld.umap'
+[2025.01.22-08.00.20:033][368]LogFileHelpers: Saving map 'MAP_Overworld' took 0.122
+[2025.01.22-08.00.20:042][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 281.094 ms (total: 4.03 sec)
+[2025.01.22-08.00.20:115][368]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.22-08.00.20:115][368]LogContentValidation: Enabled validators:
+[2025.01.22-08.00.20:115][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.22-08.00.20:115][368]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.22-08.00.20:115][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.22-08.00.20:115][368]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.22-08.00.20:115][368]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.22-08.00.20:115][368]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.22-08.00.20:115][368]AssetCheck: /Game/Maps/MAP_Overworld Validating asset
+[2025.01.22-08.04.09:300][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
