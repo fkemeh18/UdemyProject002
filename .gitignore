@@ -6,3 +6,6 @@ Saved/Logs/UdemyProject002-backup-2025.02.24-02.09.59.log
 *.json
 *.ini
 *.ini
+/Saved/Logs
+/Saved/Autosaves
+/Saved/Config/WindowsEditor
